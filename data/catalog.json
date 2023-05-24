@@ -1,0 +1,4184 @@
+[
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4170706c6573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4170706c6573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Apples"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A delicious and nutritious fruit that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:54.410119Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CZTbXVrKGqg2UCEBr72ryMzrF0gM3zpvPtnBLZDk2HTkJtdn5neLw0rLUUY&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "42616e616e6173"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "42616e616e6173"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Bananas"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and versatile fruit that can be eaten fresh, cooked, or baked."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.69,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:55.206951Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYx8iM6RjESHnpSgWmCAi-Iirr25wc1kgDrRCcP2qzFsQMCpPjSKlix1MeaA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4f72616e676573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4f72616e676573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Oranges"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A citrus fruit that is a good source of vitamin C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.89,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:55.716475Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw1C614THmaHSr2lZrVUmCCHRq-puT04oBt2oV72Ry3bJPNoRj46voB3XRQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "477261706573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "477261706573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Grapes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and juicy fruit that is a good source of antioxidants."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.19,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:56.336454Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4n298FdnO6skEmiiL6EMHtHDaOwRWFL49-il6DJjrL1jq1abqYElM4JxiYoM&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5065617273"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5065617273"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Pears"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and juicy fruit that is a good source of fiber."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.79,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:57.047908Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5yuS4THN_3zYZjw_suA8Bn2l5VZU2XKgp8AY3ytKCCPxYJ4WRYSxR5LFIAA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "537472617762657272696573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "537472617762657272696573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Strawberries"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and flavorful fruit that is a good source of vitamin C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:57.665996Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rsZpG2blkDClZw5s8W6bOL506RHAqoPQxv6Z8jgJjm8qV5s3sX3J5ZHzlZA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "426c756562657272696573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "426c756562657272696573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Blueberries"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and tart fruit that is a good source of antioxidants."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.29,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:58.281119Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPA-_vYLKfDkjfFeuI-3wBvi2VXt4fuXyaHL5VqVpU0Sw9wXpE3FvDQqjx-w&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4368657272696573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4368657272696573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cherries"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and tart fruit that is a good source of antioxidants."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.39,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:58.893163Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShtDVoMEsPPFCOWimhuPpX8qJI1sSi3cljvII9wjphOYwaLSctwd_oSGhHrQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "50656163686573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "50656163686573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Peaches"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and juicy fruit that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.09,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:46:59.507964Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxtOfwYJbpMRg9PYCuXQ2M3CrKCpU3WZYUL3r78ogq8g5Xi46YdPJH_JQEjw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4e6563746172696e6573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4e6563746172696e6573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Nectarines"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and juicy fruit that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.19,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:00.121913Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TR4KCSUBQ5RSQpIZKL3NM61vMHw2no0bGB17s22a57ox4u8XABDDF9IuHw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "57617465726d656c6f6e"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "57617465726d656c6f6e"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Watermelon"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A refreshing and juicy fruit that is a good source of water."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:00.835465Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5AKOcv7eSe5sSrn_XTKkJLhGWm7j5dO15EZ7kNw8UdDSNuGra6SH6kQHXaoU&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43616e74616c6f757065"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43616e74616c6f757065"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cantaloupe"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and juicy fruit that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.29,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:01.552696Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xV2jstj88eQmc6M78D95GitKCi_gNe0LBx79flNo8sd6qSvlpeqxVbjQ5w&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "486f6e6579646577"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "486f6e6579646577"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Honeydew"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet and refreshing fruit that is a good source of water."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:02.167487Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMtwmwWGqAyg6X0di3-E2paq7zbdLOkP__l3dZlit7XfW-FIe2ANjGQw6voc&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "41766f6361646f73"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "41766f6361646f73"
+        },
+        "merchandiseCategory": {
+            "nodeId": "467275697473"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Avocados"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A creamy and versatile fruit that is a good source of healthy fats."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:02.783227Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJJ7bVt7_lTR14Q6PyY4ZIZBkVl7Qpa95tzUrOp1iIf8c0K2xLT_iofcO7MA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "42726f63636f6c69"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "42726f63636f6c69"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Broccoli"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A nutrient-rich vegetable that is a good source of vitamins A, C, and K."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:03.397904Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn539T8aE_9gLz855GluzOAlQwDytt7fggvJPuXj0owqTD7FqJ9t4cKiCYUQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4361756c69666c6f776572"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4361756c69666c6f776572"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cauliflower"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A nutrient-rich vegetable that is a good source of vitamins A, C, and K."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.29,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:04.001642Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-clMS6C62SdU6qGAO-klSFN0at5b5-6Dt6-kDx1B_q-n10JSmTpPIuBa17fw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436172726f7473"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436172726f7473"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Carrots"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A root vegetable that is a good source of beta-carotene."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:04.578734Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVE0C7IYQd5HH9TnL5XcoQSI6299h2_rmY99QdS9q1wd84n-hcqc_O4GTsQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43656c657279"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43656c657279"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Celery"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A stalk vegetable that is a good source of fiber."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.69,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:05.232880Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRdVB5yowW-XFfXx5uESkIrjPUmWLuAqWOtNWqhqYjDsmZx3gexFGYxCbrg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "437563756d62657273"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "437563756d62657273"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cucumbers"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A refreshing vegetable that is a good source of water."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.79,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:05.852793Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhizMgkE-Gm92XopDJSH9Dc6egftwOBcofbXHH5RyUUU51-TG0eqlrP4VOdA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4c657474756365"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4c657474756365"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Lettuce"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A leafy green vegetable that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.89,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:06.491677Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6h-ysOYC_xmRKTEen-Ar1faISeytsk_JCWCWW8rrbnf7OgF4Vk4gazOEWw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4f6e696f6e73"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4f6e696f6e73"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Onions"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A bulb vegetable that is a good source of fiber."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.59,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:07.286267Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxwIw3NFRQjHoiP-coBpHHoMF9IvSMsM2o8iwSbMau2QmY4BNLK0dzBrkjA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "50656173"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "50656173"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Peas"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A legume that is a good source of protein."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:07.903214Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgTHEb_qKjDPDrOAHdKcnhMXC8xZAwkYrJtxHhnSTNmME_a51D05HmorZHIk&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "506f7461746f6573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "506f7461746f6573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Potatoes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A starchy vegetable that is a good source of carbohydrates."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:08.628074Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcDsXkMo1c13gl08czymLGeHhHw9Qd8AokkmYdNQIXFctX_DU31bW_bt60z_c&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "546f6d61746f6573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "546f6d61746f6573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Tomatoes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A fruit that is a good source of lycopene."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:09.356971Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGwU73WZ20GaqOYrisCqXpip9wZGwKmuyUIn9EJOU46Yx_Herxv56h4oNNNM&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5a75636368696e69"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5a75636368696e69"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Zucchini"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A summer squash that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.79,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:09.953083Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1q1djrlLN4YMvIc8TanlOhGMkwlE-87UzGPTdUz2Yrf0RFvqPWq5lqZDHw4&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4275747465726e757420737175617368"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4275747465726e757420737175617368"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Butternut squash"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A winter squash that is a good source of beta-carotene."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:10.562257Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiGBnefbQlKajauO8ktju9v8wwl8n0CosVBt1YPp94DF5_kTCGiXlE339i7tg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "417370617261677573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "417370617261677573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Asparagus"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A stalk vegetable that is a good source of fiber."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:11.178849Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv7-jwsvaDNij53hVnL90YidOKW8cxISswuuuM31r4z1Eq3lkvcvT8fQj0Yk&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "477265656e206265616e73"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "477265656e206265616e73"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Green beans"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A string bean that is a good source of vitamins A and C."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:12.303441Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxvb1NrVjO9uHZ-oPTHy9c_xvS0PHejBlNYUOHzyjKgcHus2lzlQlbld7rNE&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5370696e616368"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5370696e616368"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Spinach"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A leafy green vegetable that is a good source of vitamins A, C, and K."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 0.79,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:12.937359Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpq7fPdj3IfSDYcNr7HBMfwiumvIlk4GFZfJjIVWq0YWjQwxXG4BOm3yp1_I&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "537765657420506f7461746f6573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "537765657420506f7461746f6573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "566567657461626c6573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Sweet Potatoes"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A root vegetable that is a good source of beta-carotene."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.19,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:13.534321Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKYTgceC4vAdgocw7kO6NgXzx7QtMPKpnKJRwl55uwxYlLovI1GWlolIqVw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "45676773"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "45676773"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4461697279"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Eggs"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A nutrient-rich food that is a good source of protein and choline."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:14.184139Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01fADotG_FOr7b4reuiTTiB9XfeQURa5mawaq1pQ-bvENVHymPj18CFI_lg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4d696c6b"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4d696c6b"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4461697279"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Milk"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A nutrient-rich food that is a good source of protein, calcium, and vitamin D."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:14.966307Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQCzXxHdtB07wwPE_QRwSI_Urp06iOAkYysaNYHwE0LNswEY0hiG9MZTWWw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "596f67757274"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "596f67757274"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4461697279"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Yogurt"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A nutrient-rich food that is a good source of protein, calcium, and probiotics."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:15.602557Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBT089M3GWR6BX5oRfE9eA3Ry4D9_G-s_z34QduBMr9Ffg3fpwupRuU0Kd72o&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "49636520437265616d"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "49636520437265616d"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4461697279"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Ice Cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A frozen dessert that is a good source of calcium and fat."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:16.503032Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRza6zwhiUphRdbDRTI5ze1KduoT-MKqCt0VdgMirpQoODB3rw296sKf_eRJQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "54756e61"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "54756e61"
+        },
+        "merchandiseCategory": {
+            "nodeId": "536561666f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Tuna"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A lean protein that is a good source of omega-3 fatty acids."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:17.222763Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyt3izBI43UqpqJmiaLM9pITByyABb9djzePUDVSCPAkRCHsuNNHIsGSzEA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "53616c6d6f6e"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "53616c6d6f6e"
+        },
+        "merchandiseCategory": {
+            "nodeId": "536561666f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Salmon"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A fatty fish that is a good source of omega-3 fatty acids."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:18.039954Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPX1w9qjV98bjT5GUeMhR5pgaMTq3pzdL1n-YRUhmBFYNZRJJA-eK1opCeAA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "536872696d70"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "536872696d70"
+        },
+        "merchandiseCategory": {
+            "nodeId": "536561666f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Shrimp"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A low-calorie protein that is a good source of selenium."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:18.964498Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbG82vwc4hsHxdEdmUOLo-pL2idsK9t-1IVUoxQ80ndqQoERPciq5K2iaJaww&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43726162"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43726162"
+        },
+        "merchandiseCategory": {
+            "nodeId": "536561666f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Crab"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A crustacean with a hard shell and ten legs."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.29,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:19.783608Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAJoFBB8fSIzCE0yE8o8Xf5gN9PpKzwtGfmWPhwKpobTls3XiMKZGxrIc0ow&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4c6f6273746572"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4c6f6273746572"
+        },
+        "merchandiseCategory": {
+            "nodeId": "536561666f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Lobster"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A large marine crustacean with a long, spiny tail."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:20.500601Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTA7PJeww8El_9tg2T2U3D0AfVItmzF1JF3eP8jNP1kh5_bGwD95sjzLZ4VU&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "54756e612053616c6164"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "54756e612053616c6164"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616c6164"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Tuna Salad"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A salad made with tuna, mayonnaise, and celery."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:21.218260Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiu5L5OIHLFvZkREPV_7pyXU1yTjzeJ8mdTxF4G7hvSN1irCsuoC0OIa8gLA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436869636b656e2053616c6164"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436869636b656e2053616c6164"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616c6164"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Chicken Salad"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A salad made with chicken, mayonnaise, and celery."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:21.906261Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQFT_-GaMqLWRnBbdfQC7G64PpzANMeOFoClRa0G1-zJH9ZCqXxS2plEjf48&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "48616d2053616c6164"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "48616d2053616c6164"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616c6164"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Ham Salad"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A salad made with ham, mayonnaise, and celery."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:22.748576Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYMx2-bkovP7_YjgbVuz_vHjJW-LIpkr_n24InJ52ela7dGW1BERQXwaps_c&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5065616e75742042757474657220616e64204a656c6c79"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5065616e75742042757474657220616e64204a656c6c79"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616e64776963686573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Peanut Butter and Jelly"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with peanut butter, jelly, and two slices of bread."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:23.473653Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAp8s908GcV1soJLDh3TjBK3UsKCG1Klvm0xpcxUN1ojp7JlylNaFfir7jvs&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "426f6c6f676e6120616e6420436865657365"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "426f6c6f676e6120616e6420436865657365"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616e64776963686573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Bologna and Cheese"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with bologna, cheese, and two slices of bread."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:24.285576Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgn9Uy8_3K9gpxrsfyJEWKD2B0aFs8e729RVslgVOc2AH6Ld-6HeRFAdivA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4772696c6c656420436865657365"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4772696c6c656420436865657365"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616e64776963686573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Grilled Cheese"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with cheese between two slices of bread that have been grilled until the cheese is melted."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:25.107102Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuy5sPN0baZh06FYGtRu0z1fF1-5TptbSVAvSp8vIcp3H-GRSfmAet2VJTyw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5475726b65792053616e6477696368"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5475726b65792053616e6477696368"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616e64776963686573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Turkey Sandwich"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with turkey, mayonnaise, lettuce, tomato, and two slices of bread."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:26.025708Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44Do3JrV9vq0sq0b8CTs0O91mVpKZkG37Aryjp6mcsrLSxCDv-Li7tYE79FQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436c75622053616e6477696368"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436c75622053616e6477696368"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616e64776963686573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Club Sandwich"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with turkey, ham, bacon, lettuce, tomato, mayonnaise, and two slices of bread."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 4.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:26.547396Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRS8FRU1ouZCAevr3661qDSg447kNRgsBtFP7vaS3BpX9i6ADbPtEIW1ttw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5375627761792053616e6477696368"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5375627761792053616e6477696368"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616e64776963686573"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Subway Sandwich"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with your choice of bread, meat, cheese, vegetables, and sauce."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 6.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:27.060056Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7HjQz1QtF7fxEA3Kehu6uPy9cIpCPZkFcLFfhSMZv5UGvODhW3ZxrAjobg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "48616d627572676572"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "48616d627572676572"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Hamburger"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with a ground beef patty, lettuce, tomato, onion, pickles, and mayonnaise on a bun."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 4.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:27.620885Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsvWwKMh4lEbgqu00iwPIyPc3DfK_gHuhpHJ7JZn6f0Htc4ZuZYrvDjU8Ih_M&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436865657365627572676572"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436865657365627572676572"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cheeseburger"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A hamburger with cheese."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 5.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:28.337360Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rA-tTXSrgwl9S8xjwWc5s3GzLEZCkjJpwegxOsmXSVjBTqUccoW-pRePNQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436869636b656e2053616e6477696368"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436869636b656e2053616e6477696368"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Chicken Sandwich"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sandwich made with a chicken patty, lettuce, tomato, onion, pickles, and mayonnaise on a bun."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 5.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:28.994436Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQAeD4B3Y8EaeaniprHayTlpFwW_op0d0NhlwWmFcBIoYc8JdtXTCz3ye4n4&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "486f74646f67"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "486f74646f67"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Hotdog"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sausage in a long, soft roll that has been grilled or steamed."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:29.519471Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiI-yP1qo9IWIL_3snxOo-T41oPeev0kOiw-W_alj5iI7vuSY5f_plMh7uw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4672656e6368204672696573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4672656e6368204672696573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "French Fries"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A side dish of deep-fried potatoes that have been cut into strips."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:30.349794Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKSkW2AUpoDy3VNIknead9vng5i3eW1-ci402ma2PEkZYWyzRgWkSqsYXrQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4f6e696f6e2052696e6773"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4f6e696f6e2052696e6773"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Onion Rings"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A side dish of deep-fried onions that have been coated in batter."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:31.352136Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHo5jS5BbviGdR6ZEp3AL6VV-lQI1_gmj1ovaiu7gAz6JY89rE77lz9lz2lg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4d6f7a7a6172656c6c6120537469636b73"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4d6f7a7a6172656c6c6120537469636b73"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Mozzarella Sticks"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A side dish of deep-fried mozzarella cheese sticks."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:32.273123Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXtQN2rtUNlRS50HP9edjb9Bnitq7Mg7mDgAHAM3xmwrf5tQRzCUHcT31eg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436869636b656e204e756767657473"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436869636b656e204e756767657473"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Chicken Nuggets"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A side dish of deep-fried chicken pieces."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 4.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:33.047947Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTviCA26NzL96jaCf7klV7Ps12F-zVeUTFmK5oePhXhBEBKCW3HhJbewnlajas&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "50697a7a61"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "50697a7a61"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Pizza"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A flatbread that has been topped with tomato sauce, cheese, and your choice of toppings."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 5.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:33.841056Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8NwCPybe-5D_SptqbrqfxDsXxg6c_LFwM8_-JtRAyzRvix5GvmJUOZzh3Q&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "53616c6164"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "53616c6164"
+        },
+        "merchandiseCategory": {
+            "nodeId": "53616c6164"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Salad"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A dish of mixed greens and vegetables that may be topped with dressing."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 5.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:34.633087Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7mxbFyYAY9NmmOiLxgyFT7fQSCy6Gsp4r1ovBu144Nw-CMoR8zehiUIZaAQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "537061676865747469"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "537061676865747469"
+        },
+        "merchandiseCategory": {
+            "nodeId": "5061737461"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Spaghetti"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A dish of pasta that has been topped with tomato sauce and cheese."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 5.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:35.549159Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXSQvWzZMaoWoQ627KDreI45-MC5YguLSBciZeqbuWaxx2O4jwJ7VSEWQFcU&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4c617361676e61"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4c617361676e61"
+        },
+        "merchandiseCategory": {
+            "nodeId": "5061737461"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Lasagna"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A baked dish of pasta that has been layered with tomato sauce, cheese, and meat or vegetables."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 6.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:36.059364Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGrVEk62ht9HALQAoELBGE4_BwuhkhDCnkDOHM88tY_T6iKiVa3gZspU3vg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "5061737461"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "5061737461"
+        },
+        "merchandiseCategory": {
+            "nodeId": "5061737461"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Pasta"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A dish of cooked pasta that may be topped with sauce or other ingredients."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 4.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:36.876688Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFEoG4U-QtgUPy5-vftFAJ-WA2n4vi9lTXiIuxNFfbowVfEevbooY5KD29pSY&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "526f61737420436869636b656e"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "526f61737420436869636b656e"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4d656174"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Roast Chicken"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A chicken that has been roasted in the oven."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 7.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:37.807545Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRikyEGAY-fJSMHj11_gYlys-yM86d5WYPv_QqZWroD1h4Xbe-O8I5aeJxECQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "526f6173742042656566"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "526f6173742042656566"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4d656174"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Roast Beef"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A beef that has been roasted in the oven."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 8.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:38.628427Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7u4-f6Y6vvb-rbTTHN2Ycw6jNzdsi1l-XPGq47e9E9jVS7JpOHdeyoQWA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "537465616b"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "537465616b"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4d656174"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Steak"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A cut of beef that has been grilled or broiled."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 9.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:39.448165Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHJarthuUzbAxXDbhIAVbVMnROtkaiQ9dgwVOTB1JhwERaRpMfVtfcEEzWfk&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436869636b656e"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436869636b656e"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4d656174"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Chicken"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A bird that has been cooked in the oven or on the grill."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 6.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:40.361757Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6PRxN74jGV0A1ViDNDqVUO48-IICrPvgZfiwEJajMvgF9NgBdQaO6LtUOA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "42656566"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "42656566"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4d656174"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Beef"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A mammal that has been cooked in the oven or on the grill."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 7.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:40.876494Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAgShQ1fVVal8iNMMw3plr6HP1ojNwjW8iQLfqpN_tnj6umADHb9tKJaIhg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "506f726b"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "506f726b"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4d656174"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Pork"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A mammal that has been cooked in the oven or on the grill."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 6.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:41.620774Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWIVF4UAg2yc1SGByX7fjmcZdXZ4xyucqiQ7ld-0FK8B0deVqE6AyfrHeYR8&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4272656164"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4272656164"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4272656164"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Bread"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A baked good that is made from flour, water, and yeast."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:42.409478Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluvXqHyujTKjmwp7xAhCBBAVlY3ODPcpNifaWieyB73JiePs6VeTYDT5_Sw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "44657373657274"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "44657373657274"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Dessert"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet course that concludes a meal."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:43.137366Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9w6jj-gwdP3a5NAs-ropESUflfPdITJAxnaCvoOCPt8YnyPt0WWEFeiuAQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43616b65"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43616b65"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cake"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet, baked dish of one or more layers of sweet cake batter, often with a layer of frosting or other filling between the layers."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 4.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:43.840709Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUQwgvr_ZReC3WDl1wAaGJ5_Rtg-NKLgX28_N7zp7nAgCElJ-T38D61YJ_ZA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "506965"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "506965"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Pie"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A baked dish of fruit, custard, or other filling enclosed in a crust."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 4.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:44.872561Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQf0O1vtHXOaVYsckg6m79hpJcF6Ngv3rl8vqZ5FV-cKdgZaY9LqZIZ-cNg&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436f6f6b696573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436f6f6b696573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cookies"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A small, flat, sweet cake, typically made with flour, sugar, butter, and eggs."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:45.790638Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZFJPop-MucxzzeI-oCaWvr2rcbQRmqwEzdzoY2yyHQ-_FbPG8_RWc2J5y5c&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43686f636f6c6174652054727566666c6573"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43686f636f6c6174652054727566666c6573"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Chocolate Truffles"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A small, round, chocolate-covered candy with a ganache filling."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:46.612747Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtWCZQzlBXi2v5KEqEsea-yMuGVb8qRsKZO0e1LmqBZPB7zfi5zaTyyjPJQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43616e6479"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43616e6479"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Candy"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A sweet food made with sugar, typically combined with other ingredients such as chocolate, nuts, or fruit."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:47.529795Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bvb9Vy3NAm4LcP05qtgy6-WsicaPaoScZSGAJWgXpD6g8_QHlDOr6KGZaw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "43686f636f6c617465"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "43686f636f6c617465"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Chocolate"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A food made from roasted and ground cacao seed kernels, that is available as a liquid, solid or paste, on its own or as a flavoring agent in other foods."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 2.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:48.352164Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsGUh6JrdPKaB2EofRUlu1BP_oSG16kxlGeC6OKHTYwMjcw4sc4c19vQkRA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436f6f6b69657320616e6420437265616d"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436f6f6b69657320616e6420437265616d"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Cookies and Cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A flavor combination of chocolate cookies and vanilla ice cream."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:49.369934Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-AdxNa4oG_BcKTUv1jhMWCni8hKdbozHLnMoDtGxAQflUeAHy7EB2VXzIQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "4d696e742043686f636f6c6174652043686970"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "4d696e742043686f636f6c6174652043686970"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Mint Chocolate Chip"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A flavor combination of mint and chocolate."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:50.193063Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQ4R_MzajFvSIR8Lnc1I8pVw3Wz2-yG98MtrW-RF0SDpoZJWU4ahWAiZ8lw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "53747261776265727279"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "53747261776265727279"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Strawberry"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A flavor combination of strawberry and vanilla."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:51.039800Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEIAODJUU9nJQaJ6EPruDu_kxKk_YzpyrQaUr6nz7uybhJ0XJsxJ1yEzLnVQ&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "56616e696c6c612049636520437265616d"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "56616e696c6c612049636520437265616d"
+        },
+        "merchandiseCategory": {
+            "nodeId": "44657373657274"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Vanilla Ice Cream"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A flavor combination of vanilla and cream."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 3.49,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:51.732118Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVLGV90phvJI1cYVF7MV_N4n-OWFXq7WDrwEBUsigP8n_K-mlsLhzspvoOgw&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "436f66666565"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "436f66666565"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4472696e6b73"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Coffee"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A hot drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:52.548603Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTib3suJpWP8ktGSB2bZkiMV5xj83RtHHbSMELlkpRMXbbOVdFmHzmaMoBGc8o&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "546561"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "546561"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4472696e6b73"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Tea"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "An infusion made from the leaves of the Camellia sinensis plant, prepared by pouring hot water over the leaves and allowing them to steep."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:53.596292Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1jcrJBknIa-v828lzUxxFv_BBj_OTm-mqIlkHuWxjnv_xKtOcAW23EEtYn4&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    },
+    {
+        "version": 1,
+        "status": "ACTIVE",
+        "dynamicAttributes": [
+            {
+                "type": "retail-item",
+                "attributes": [
+                    {
+                        "key": "ITEM_TYPE_CODE",
+                        "value": "0"
+                    }
+                ]
+            }
+        ],
+        "packageIdentifiers": [
+            {
+                "type": "0",
+                "value": "536f6461"
+            }
+        ],
+        "departmentId": "02",
+        "itemId": {
+            "itemCode": "536f6461"
+        },
+        "merchandiseCategory": {
+            "nodeId": "4472696e6b73"
+        },
+        "shortDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Soda"
+                }
+            ]
+        },
+        "longDescription": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "A carbonated soft drink."
+                }
+            ]
+        },
+        "unitOfMeasure": "EA",
+        "price": 1.99,
+        "currency": "USD",
+        "effectiveDate": "2023-05-23T15:47:54.700504Z",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSKH4OzKWvxEA5AlgN6EEhkplQOQnD4F4Y68Y296tLnMoEIHKk9kdCX0fZjA&s",
+        "groups": "28ba8df5",
+        "nonMerchandise": false
+    }
+]

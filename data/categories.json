@@ -1,0 +1,230 @@
+[
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Bread"
+                }
+            ]
+        },
+        "nodeCode": "4272656164",
+        "nodeId": {
+            "nodeId": "4272656164"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Dairy"
+                }
+            ]
+        },
+        "nodeCode": "4461697279",
+        "nodeId": {
+            "nodeId": "4461697279"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Dessert"
+                }
+            ]
+        },
+        "nodeCode": "44657373657274",
+        "nodeId": {
+            "nodeId": "44657373657274"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Drinks"
+                }
+            ]
+        },
+        "nodeCode": "4472696e6b73",
+        "nodeId": {
+            "nodeId": "4472696e6b73"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Fast Food"
+                }
+            ]
+        },
+        "nodeCode": "4661737420466f6f64",
+        "nodeId": {
+            "nodeId": "4661737420466f6f64"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Fruits"
+                }
+            ]
+        },
+        "nodeCode": "467275697473",
+        "nodeId": {
+            "nodeId": "467275697473"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Meat"
+                }
+            ]
+        },
+        "nodeCode": "4d656174",
+        "nodeId": {
+            "nodeId": "4d656174"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Pasta"
+                }
+            ]
+        },
+        "nodeCode": "5061737461",
+        "nodeId": {
+            "nodeId": "5061737461"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Salad"
+                }
+            ]
+        },
+        "nodeCode": "53616c6164",
+        "nodeId": {
+            "nodeId": "53616c6164"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Sandwiches"
+                }
+            ]
+        },
+        "nodeCode": "53616e64776963686573",
+        "nodeId": {
+            "nodeId": "53616e64776963686573"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Seafood"
+                }
+            ]
+        },
+        "nodeCode": "536561666f6f64",
+        "nodeId": {
+            "nodeId": "536561666f6f64"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    },
+    {
+        "title": {
+            "values": [
+                {
+                    "locale": "en-US",
+                    "value": "Vegetables"
+                }
+            ]
+        },
+        "nodeCode": "566567657461626c6573",
+        "nodeId": {
+            "nodeId": "566567657461626c6573"
+        },
+        "tag": "Merchandise",
+        "departmentNode": false,
+        "departmentSale": false,
+        "status": "ACTIVE",
+        "version": 1
+    }
+]
