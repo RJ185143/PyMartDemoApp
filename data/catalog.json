@@ -1,6 +1,6 @@
 [
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -38,20 +38,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A delicious and nutritious fruit that is a good source of vitamins A and C."
+                    "value": "Apples are one of the most popular and beloved fruits in the world. They are crunchy, sweet, and juicy, making them a great snack anytime."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:54.410119Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7CZTbXVrKGqg2UCEBr72ryMzrF0gM3zpvPtnBLZDk2HTkJtdn5neLw0rLUUY&s",
+        "effectiveDate": "2023-05-25T10:54:09.152855Z",
+        "imageUrl": "https://media.istockphoto.com/id/495878092/photo/red-apple.jpg?b=1&s=170667a&w=0&k=20&c=PUhglH0IbQF6-uDB0aq27tSkdGwpLchjmR-y0VAatUQ=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -89,20 +89,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and versatile fruit that can be eaten fresh, cooked, or baked."
+                    "value": "Bananas are a delicious and nutritious fruit that can be enjoyed in many different ways. They are a great source of vitamins, minerals, and dietary fiber and contain natural sugars that provide energy."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.69,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:55.206951Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYx8iM6RjESHnpSgWmCAi-Iirr25wc1kgDrRCcP2qzFsQMCpPjSKlix1MeaA&s",
+        "effectiveDate": "2023-05-25T10:54:10.687045Z",
+        "imageUrl": "https://media.istockphoto.com/id/173242750/photo/banana-bunch.jpg?b=1&s=170667a&w=0&k=20&c=0tf5f84ouowwcY08dpp6XrWUTLJLL_dWwjqAlyueU60=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -140,20 +140,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A citrus fruit that is a good source of vitamin C."
+                    "value": "Oranges are one of the most popular fruits in the world, and for good reason. They are a great source of fiber, Vitamin C, and other essential nutrients."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.89,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:55.716475Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw1C614THmaHSr2lZrVUmCCHRq-puT04oBt2oV72Ry3bJPNoRj46voB3XRQ&s",
+        "effectiveDate": "2023-05-25T10:54:11.920981Z",
+        "imageUrl": "https://media.istockphoto.com/id/185284489/photo/orange.jpg?b=1&s=170667a&w=0&k=20&c=a9rTa5lUsFBIz3RkL-dTXZV3oa9iRmP1lMVyTPoPA60=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -191,20 +191,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and juicy fruit that is a good source of antioxidants."
+                    "value": "Grapes are one of nature's sweetest treats. These succulent fruits come in many varieties, from green to red and even black. Not only are they delicious, but they are also a great source of essential vitamins and minerals."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.19,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:56.336454Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4n298FdnO6skEmiiL6EMHtHDaOwRWFL49-il6DJjrL1jq1abqYElM4JxiYoM&s",
+        "effectiveDate": "2023-05-25T10:54:13.963406Z",
+        "imageUrl": "https://media.istockphoto.com/id/803721418/photo/grape-dark-grape-grapes-with-leaves-isolated-with-clipping-path-full-depth-of-field.jpg?b=1&s=170667a&w=0&k=20&c=22RfVAz6mwQjZFb_NfteAf0Xfq4zLPepfAXO_4bD3tw=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -242,20 +242,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and juicy fruit that is a good source of fiber."
+                    "value": "Pears are sweet and juicy fruits that come in various sizes and shapes. Ranging from green to golden yellow in color, pears have a soft texture and a unique taste."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:57.047908Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5yuS4THN_3zYZjw_suA8Bn2l5VZU2XKgp8AY3ytKCCPxYJ4WRYSxR5LFIAA&s",
+        "effectiveDate": "2023-05-25T10:54:15.086425Z",
+        "imageUrl": "https://media.istockphoto.com/id/1131349074/photo/green-yellow-pear-fruits-isolated-on-white.jpg?b=1&s=170667a&w=0&k=20&c=AM0CEBA24q655b39BFCrAOLjnjG3p1WwRUVdcyaTzSU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -293,20 +293,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and flavorful fruit that is a good source of vitamin C."
+                    "value": "Our Strawberries are sweet, juicy and packed with flavor. They are the perfect addition to any dish that needs a burst of freshness and sweetness. As a rich source of vitamins and minerals, they make a healthy snack or side dish."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:57.665996Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9rsZpG2blkDClZw5s8W6bOL506RHAqoPQxv6Z8jgJjm8qV5s3sX3J5ZHzlZA&s",
+        "effectiveDate": "2023-05-25T10:54:16.319840Z",
+        "imageUrl": "https://media.istockphoto.com/id/1157946861/photo/red-berry-strawberry-isolated.jpg?b=1&s=170667a&w=0&k=20&c=wqDW-Z9zyYQQ6SfyvPMSR41rAeJbsD0ZtK--0xvsC0Q=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -344,20 +344,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and tart fruit that is a good source of antioxidants."
+                    "value": "Blueberries are a delicious and nutritious fruit that are popular all over the world. They have a sweet and tart flavor, making them a great addition to many recipes."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.29,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:58.281119Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPA-_vYLKfDkjfFeuI-3wBvi2VXt4fuXyaHL5VqVpU0Sw9wXpE3FvDQqjx-w&s",
+        "effectiveDate": "2023-05-25T10:54:17.765419Z",
+        "imageUrl": "https://media.istockphoto.com/id/164869226/photo/many-different-blueberries-sitting-in-a-row-of-4.jpg?b=1&s=170667a&w=0&k=20&c=jgPTcg7-AK9Q5-RT1w0mDmRkZPhlcbm5r1suhsgAomk=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -395,20 +395,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and tart fruit that is a good source of antioxidants."
+                    "value": "Cherries are a delicious, juicy, and nutritious summer fruit. Sweet and tart varieties of cherries are available for you to enjoy. These plump fruits are packed with vitamin C and antioxidants that make them a healthy addition to any diet."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.39,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:58.893163Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShtDVoMEsPPFCOWimhuPpX8qJI1sSi3cljvII9wjphOYwaLSctwd_oSGhHrQ&s",
+        "effectiveDate": "2023-05-25T10:54:19.179035Z",
+        "imageUrl": "https://media.istockphoto.com/id/172315512/photo/sweet-cherries.jpg?b=1&s=170667a&w=0&k=20&c=dR5nAJD3GdLRNBG5brpk2NAz_thhh-6tzK1K3clphFw=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -446,20 +446,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and juicy fruit that is a good source of vitamins A and C."
+                    "value": "Fresh, juicy peaches are the perfect summertime snack. This delicious fruit is a great source of vitamins and minerals and provides a sweet burst of flavor. Peaches have a unique fuzzy skin that adds an interesting texture to your favorite dishes."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.09,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:46:59.507964Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxtOfwYJbpMRg9PYCuXQ2M3CrKCpU3WZYUL3r78ogq8g5Xi46YdPJH_JQEjw&s",
+        "effectiveDate": "2023-05-25T10:54:20.445995Z",
+        "imageUrl": "https://media.istockphoto.com/id/1151868959/photo/single-whole-peach-fruit-with-leaf-and-slice-isolated-on-white.jpg?b=1&s=170667a&w=0&k=20&c=RZ78UVLHuKNiNFQPAJZh6tjTqZjrSrzujb864GLcj0A=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -497,20 +497,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and juicy fruit that is a good source of vitamins A and C."
+                    "value": "Nectarines are a delicious and nutritious summer fruit. Sweet and juicy, nectarines are packed with vitamins A and C as well as dietary fiber. They can be enjoyed fresh, or cooked in a variety of dishes."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.19,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:00.121913Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1TR4KCSUBQ5RSQpIZKL3NM61vMHw2no0bGB17s22a57ox4u8XABDDF9IuHw&s",
+        "effectiveDate": "2023-05-25T10:54:21.848079Z",
+        "imageUrl": "https://media.istockphoto.com/id/903375274/photo/nectarine.jpg?b=1&s=170667a&w=0&k=20&c=2VG3YMURJhoAUNLNREybqTxV-9ehSGEyO33a0UMUngQ=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -548,20 +548,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A refreshing and juicy fruit that is a good source of water."
+                    "value": "This juicy and delicious watermelon is the perfect addition to any meal or snack. Enjoy its sweet flavor and crisp texture. This large fruit is a great source of vitamins A and C, as well as potassium."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:00.835465Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5AKOcv7eSe5sSrn_XTKkJLhGWm7j5dO15EZ7kNw8UdDSNuGra6SH6kQHXaoU&s",
+        "effectiveDate": "2023-05-25T10:54:23.368413Z",
+        "imageUrl": "https://media.istockphoto.com/id/1125584344/photo/watermelon-slice-isolated-on-white-background-clipping-path-full-depth-of-field.jpg?b=1&s=170667a&w=0&k=20&c=cemT0sjlbTwgTxFruLTr2OqykGTxrxomSMOZ43BA2Ck=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -599,20 +599,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and juicy fruit that is a good source of vitamins A and C."
+                    "value": "The Cantaloupe is a delicious, juicy and refreshing fruit that can be enjoyed all year round. Its sweet flavor and tender texture make it a favorite among many."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.29,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:01.552696Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xV2jstj88eQmc6M78D95GitKCi_gNe0LBx79flNo8sd6qSvlpeqxVbjQ5w&s",
+        "effectiveDate": "2023-05-25T10:54:24.813762Z",
+        "imageUrl": "https://media.istockphoto.com/id/910127132/photo/cantaloupe-melon.jpg?b=1&s=170667a&w=0&k=20&c=zYliZU_DpLq7WN24W1W6-PJqyL6upZettslZ9zVJd_4=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -650,20 +650,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet and refreshing fruit that is a good source of water."
+                    "value": "Honeydew is a delicious and refreshing fruit that will make your taste buds come alive. With its sweet and juicy flavor, it's sure to be a hit for any occasion."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:02.167487Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJMtwmwWGqAyg6X0di3-E2paq7zbdLOkP__l3dZlit7XfW-FIe2ANjGQw6voc&s",
+        "effectiveDate": "2023-05-25T10:54:25.918112Z",
+        "imageUrl": "https://media.istockphoto.com/id/1194084952/photo/fresh-honey-dew-or-melon-slice-fruit-isolated-on-white-background-with-clipping-path.jpg?b=1&s=170667a&w=0&k=20&c=oGKBR4I36dGXQK7avRvFYT9nHANse2grbEsZp2jCKzA=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -701,20 +701,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A creamy and versatile fruit that is a good source of healthy fats."
+                    "value": "Avocados are a nutrient-dense fruit that are perfect for adding to salads, sandwiches, smoothies, and guacamole."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:02.783227Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJJ7bVt7_lTR14Q6PyY4ZIZBkVl7Qpa95tzUrOp1iIf8c0K2xLT_iofcO7MA&s",
+        "effectiveDate": "2023-05-25T10:54:27.168537Z",
+        "imageUrl": "https://media.istockphoto.com/id/962648580/photo/set-of-fresh-whole-and-sliced-avocado.jpg?b=1&s=170667a&w=0&k=20&c=AVmbYip-A7WuaNT9RbjuIVHlgfGy6s00I1DXyNRlq2s=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -752,20 +752,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A nutrient-rich vegetable that is a good source of vitamins A, C, and K."
+                    "value": "Broccoli is a nutrient-rich vegetable with a distinct flavor and crunchy texture. It's an excellent source of vitamins C and K, as well as dietary fiber."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:03.397904Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn539T8aE_9gLz855GluzOAlQwDytt7fggvJPuXj0owqTD7FqJ9t4cKiCYUQ&s",
+        "effectiveDate": "2023-05-25T10:54:28.504840Z",
+        "imageUrl": "https://media.istockphoto.com/id/147060621/photo/broccoli.jpg?b=1&s=170667a&w=0&k=20&c=JGlQQJdB59MGpVbBHgg_9ejZh5PQuCNsr97vgrDhiEs=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -803,20 +803,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A nutrient-rich vegetable that is a good source of vitamins A, C, and K."
+                    "value": "This fresh and delicious cauliflower is the perfect addition to any meal. Grown in nutrient-rich soil, this cauliflower has a crisp and crunchy texture that will make your dishes stand out."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.29,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:04.001642Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-clMS6C62SdU6qGAO-klSFN0at5b5-6Dt6-kDx1B_q-n10JSmTpPIuBa17fw&s",
+        "effectiveDate": "2023-05-25T10:54:29.570512Z",
+        "imageUrl": "https://media.istockphoto.com/id/511868689/photo/fresh-cauliflower-with-pieces-isolated-on-white.jpg?b=1&s=170667a&w=0&k=20&c=MhH0fcAd27x8ctbC8k35jGRR4u343vxPsd7OlEkurkg=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -854,20 +854,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A root vegetable that is a good source of beta-carotene."
+                    "value": "Carrots are a popular and versatile vegetable that can be used in a variety of dishes. They have a sweet and crunchy taste, with a bright orange color that adds to any meal."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:04.578734Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDVE0C7IYQd5HH9TnL5XcoQSI6299h2_rmY99QdS9q1wd84n-hcqc_O4GTsQ&s",
+        "effectiveDate": "2023-05-25T10:54:30.667913Z",
+        "imageUrl": "https://media.istockphoto.com/id/545454816/photo/fresh-carrots-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=7hpH0bnQ9ZPFokwL3oWKgxxCUquLv2w-D1xsMbeEz_I=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -905,20 +905,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A stalk vegetable that is a good source of fiber."
+                    "value": "Celery is an essential vegetable, offering a crisp texture and mild flavor. It's a great addition to salads, soups, and stir-fries."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.69,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:05.232880Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvRdVB5yowW-XFfXx5uESkIrjPUmWLuAqWOtNWqhqYjDsmZx3gexFGYxCbrg&s",
+        "effectiveDate": "2023-05-25T10:54:31.780238Z",
+        "imageUrl": "https://media.istockphoto.com/id/492464736/photo/fresh-celery-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=ItjPkqJ5pYy8S01PrPRzPpaglov_MoDEzfjH1tyNeiM=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -956,20 +956,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A refreshing vegetable that is a good source of water."
+                    "value": "Our cucumbers are a nutritious and delicious addition to your meals. They are perfect for adding to salads, sandwiches, or as a snack. Our cucumbers are fresh and crunchy with a mild flavor."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:05.852793Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhizMgkE-Gm92XopDJSH9Dc6egftwOBcofbXHH5RyUUU51-TG0eqlrP4VOdA&s",
+        "effectiveDate": "2023-05-25T10:54:33.030752Z",
+        "imageUrl": "https://media.istockphoto.com/id/91516166/photo/cucumber-slices-on-a-white-background.jpg?b=1&s=170667a&w=0&k=20&c=BThg6566A5wJ8OPNqXek_scj-qurLk2SlFW9vZTOXY0=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1007,20 +1007,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A leafy green vegetable that is a good source of vitamins A and C."
+                    "value": "Lettuce is a crunchy and refreshing vegetable that is an essential ingredient in salads, sandwiches, and more. It has a mild flavor that pairs beautifully with other ingredients."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.89,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:06.491677Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6h-ysOYC_xmRKTEen-Ar1faISeytsk_JCWCWW8rrbnf7OgF4Vk4gazOEWw&s",
+        "effectiveDate": "2023-05-25T10:54:39.344459Z",
+        "imageUrl": "https://media.istockphoto.com/id/911794888/photo/lettuce-salad-leaves-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=g8G8_K_YyPEPK240NA-0b5eZfzG6_Cz3rKKP0tTKxZU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1058,20 +1058,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A bulb vegetable that is a good source of fiber."
+                    "value": "Onions are a staple in many kitchens around the world. They are one of the most versatile vegetables available, making them an essential ingredient in countless recipes."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.59,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:07.286267Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvxwIw3NFRQjHoiP-coBpHHoMF9IvSMsM2o8iwSbMau2QmY4BNLK0dzBrkjA&s",
+        "effectiveDate": "2023-05-25T10:54:40.692746Z",
+        "imageUrl": "https://media.istockphoto.com/id/513920379/photo/onion-bulbs.jpg?b=1&s=170667a&w=0&k=20&c=FplU8DDwqsQa-r5AL8an2fXM6Ci_wvkIdn03osXqT7o=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1109,20 +1109,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A legume that is a good source of protein."
+                    "value": "Peas are an incredibly versatile vegetable that can be used in a variety of dishes. They are packed with essential nutrients, including protein, fiber, vitamins A and C, and iron."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:07.903214Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxgTHEb_qKjDPDrOAHdKcnhMXC8xZAwkYrJtxHhnSTNmME_a51D05HmorZHIk&s",
+        "effectiveDate": "2023-05-25T10:54:41.869373Z",
+        "imageUrl": "https://media.istockphoto.com/id/1133566291/photo/green-peas-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=CnbVMKMqmOqPcxarxVliAJtVYlqkTRjqOo_8-kRxFpU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1160,20 +1160,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A starchy vegetable that is a good source of carbohydrates."
+                    "value": "Potatoes are one of the most versatile and nutritious vegetables around. They can be prepared in a variety of ways, from mashing and baking to roasting and frying."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:08.628074Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcDsXkMo1c13gl08czymLGeHhHw9Qd8AokkmYdNQIXFctX_DU31bW_bt60z_c&s",
+        "effectiveDate": "2023-05-25T10:54:43.446837Z",
+        "imageUrl": "https://media.istockphoto.com/id/157430678/photo/three-potatoes.jpg?b=1&s=170667a&w=0&k=20&c=3ziiiyDXmYzP-5v9QNn4PSH0Y7CGaq5FC_OaBCZ_dRA=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1211,20 +1211,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A fruit that is a good source of lycopene."
+                    "value": "Tomatoes are a nutritious and delicious vegetable that can be enjoyed in a variety of dishes. They are packed with vitamins, minerals, and antioxidants to help keep your body healthy and strong."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:09.356971Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLGwU73WZ20GaqOYrisCqXpip9wZGwKmuyUIn9EJOU46Yx_Herxv56h4oNNNM&s",
+        "effectiveDate": "2023-05-25T10:54:44.984780Z",
+        "imageUrl": "https://media.istockphoto.com/id/959153488/photo/set-of-fresh-whole-and-sliced-tomatoes.jpg?b=1&s=170667a&w=0&k=20&c=AiZAcMYY4NNPjIC-siSStBj5RIcn8-ZtWl4Z-J0AyyY=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1262,20 +1262,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A summer squash that is a good source of vitamins A and C."
+                    "value": "Zucchini is a versatile and delicious vegetable that can be used in a variety of recipes. It has a mild flavor, making it great for adding to salads, soups, and stews."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:09.953083Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1q1djrlLN4YMvIc8TanlOhGMkwlE-87UzGPTdUz2Yrf0RFvqPWq5lqZDHw4&s",
+        "effectiveDate": "2023-05-25T10:54:46.256421Z",
+        "imageUrl": "https://media.istockphoto.com/id/1149201983/photo/fresh-whole-and-sliced-zucchini-isolated-on-white-background-from-top-view-courgette-zucchini.jpg?b=1&s=170667a&w=0&k=20&c=6jGq2PPrJA0QTzmPr4D1ouo93BM6waRN2pyfeizjSOU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1313,20 +1313,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A winter squash that is a good source of beta-carotene."
+                    "value": "Butternut squash is a delicious and nutritious vegetable that belongs to the winter squash family. It can be cooked in a variety of ways, including roasting, steaming, baking, and even pureeing into soups."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 3.39,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:10.562257Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiGBnefbQlKajauO8ktju9v8wwl8n0CosVBt1YPp94DF5_kTCGiXlE339i7tg&s",
+        "effectiveDate": "2023-05-25T10:54:47.647908Z",
+        "imageUrl": "https://media.istockphoto.com/id/471688238/photo/butternut-squash.jpg?b=1&s=170667a&w=0&k=20&c=O4mNaPYloRRpJTiBFJNq-Gsqvz2LIgikX8dMaNWJe5c=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1364,20 +1364,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A stalk vegetable that is a good source of fiber."
+                    "value": "Asparagus is a delicious vegetable that's packed with essential vitamins and minerals. Its flavor is a mix of sweet and earthy, making it a versatile addition to any meal."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:11.178849Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjv7-jwsvaDNij53hVnL90YidOKW8cxISswuuuM31r4z1Eq3lkvcvT8fQj0Yk&s",
+        "effectiveDate": "2023-05-25T10:54:49.074189Z",
+        "imageUrl": "https://media.istockphoto.com/id/820942710/photo/fresh-raw-green-asparagus-on-wooden-chopping-board.jpg?b=1&s=170667a&w=0&k=20&c=u7jPtJsjBJDV0kLcej7gRQucmu4rS73DJRl8cZ0KqxI=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1415,20 +1415,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A string bean that is a good source of vitamins A and C."
+                    "value": "Green beans are a delicious, nutritious vegetable packed with vitamins and minerals. They can be eaten raw, cooked, or added to soups and salads for an extra burst of flavor."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:12.303441Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxvb1NrVjO9uHZ-oPTHy9c_xvS0PHejBlNYUOHzyjKgcHus2lzlQlbld7rNE&s",
+        "effectiveDate": "2023-05-25T10:54:50.516300Z",
+        "imageUrl": "https://media.istockphoto.com/id/182035936/photo/fresh-beans.jpg?b=1&s=170667a&w=0&k=20&c=oeWSUcnHXE0Y6FUKezCo3UIZhhEYYfTU6nSyTtBKzJE=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1466,20 +1466,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A leafy green vegetable that is a good source of vitamins A, C, and K."
+                    "value": "Spinach is a leafy green vegetable that is an excellent source of vitamins, minerals, and antioxidants. It's low in calories and packed with nutrients like vitamin A, vitamin C, iron, and calcium."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 0.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:12.937359Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpq7fPdj3IfSDYcNr7HBMfwiumvIlk4GFZfJjIVWq0YWjQwxXG4BOm3yp1_I&s",
+        "effectiveDate": "2023-05-25T10:54:51.742395Z",
+        "imageUrl": "https://media.istockphoto.com/id/522189977/photo/spinach.jpg?b=1&s=170667a&w=0&k=20&c=6a8vR2Xp0ikYrRXzbh6PtaPlyEOcTKBUPsLglANJ894=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1517,20 +1517,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A root vegetable that is a good source of beta-carotene."
+                    "value": "Sweet potatoes are an excellent addition to any meal. They have a unique, sweet flavor and are packed with essential vitamins and minerals. Sweet potatoes can be boiled, baked, mashed or added to soups and stews for extra flavor and nutrition."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.19,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:13.534321Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcKYTgceC4vAdgocw7kO6NgXzx7QtMPKpnKJRwl55uwxYlLovI1GWlolIqVw&s",
+        "effectiveDate": "2023-05-25T10:54:53.197152Z",
+        "imageUrl": "https://media.istockphoto.com/id/1125646611/photo/sweet-potato-with-slices.jpg?b=1&s=170667a&w=0&k=20&c=CI_lQLOq2dG1BAe5vPLjpys9kRqqpPHp7YyszpI_Avg=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1568,20 +1568,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A nutrient-rich food that is a good source of protein and choline."
+                    "value": "Eggs are a versatile and delicious dairy product. They can be used in a variety of dishes, from scrambled eggs for breakfast to frittatas and quiches for lunch or dinner."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:14.184139Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ01fADotG_FOr7b4reuiTTiB9XfeQURa5mawaq1pQ-bvENVHymPj18CFI_lg&s",
+        "effectiveDate": "2023-05-25T10:54:54.410440Z",
+        "imageUrl": "https://media.istockphoto.com/id/1157804675/photo/brown-eggs-in-a-plate.jpg?b=1&s=170667a&w=0&k=20&c=CjIE2aqPgGX12V1DBq4_gEAL3RsVDzlavya44YNvMG0=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1619,20 +1619,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A nutrient-rich food that is a good source of protein, calcium, and vitamin D."
+                    "value": "Milk from our dairy is a wholesome and delicious source of nutrition. We take great pride in providing fresh, high-quality milk that's produced with care."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:14.966307Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkQCzXxHdtB07wwPE_QRwSI_Urp06iOAkYysaNYHwE0LNswEY0hiG9MZTWWw&s",
+        "effectiveDate": "2023-05-25T10:54:55.866783Z",
+        "imageUrl": "https://media.istockphoto.com/id/1198789194/photo/kefir-milk-or-turkish-ayran-drink-are-poured-into-a-glass-cup-from-a-bottle-a-glass-stands-on.jpg?b=1&s=170667a&w=0&k=20&c=4xnSCtiaHcvCzlTDstrsnBhctcDCn4SJ_uXPIUpYKSk=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1670,20 +1670,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A nutrient-rich food that is a good source of protein, calcium, and probiotics."
+                    "value": "Yogurt is a delicious dairy product that has been around for centuries. Made by fermenting milk with bacteria cultures, yogurt is a great source of probiotics and protein."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:15.602557Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBT089M3GWR6BX5oRfE9eA3Ry4D9_G-s_z34QduBMr9Ffg3fpwupRuU0Kd72o&s",
+        "effectiveDate": "2023-05-25T10:54:57.100211Z",
+        "imageUrl": "https://media.istockphoto.com/id/177545720/photo/young-beautiful-woman-eating-yogurt-at-home.jpg?b=1&s=170667a&w=0&k=20&c=jrXd_B0EKYLJUpVcQWOm5FUzwuPKuKiCz6WsliiCNSc=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1721,20 +1721,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A frozen dessert that is a good source of calcium and fat."
+                    "value": "This delicious Ice Cream is made with the finest quality dairy ingredients. Every scoop has a rich and creamy texture that will satisfy your sweet tooth. Enjoy it on its own or top it off with your favorite treats for a delightful dessert experience."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 3.0900000000000003,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:16.503032Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRza6zwhiUphRdbDRTI5ze1KduoT-MKqCt0VdgMirpQoODB3rw296sKf_eRJQ&s",
+        "effectiveDate": "2023-05-25T10:54:58.457862Z",
+        "imageUrl": "https://media.istockphoto.com/id/1161805849/photo/strawberry-vanilla-chocolate-ice-cream-with-waffle-cone-on-marble-stone-backgrounds.jpg?b=1&s=170667a&w=0&k=20&c=p33-iH83RkfjI5Lt0m5glC-WkPOdp-A_AR7hoLz5y9o=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1772,20 +1772,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A lean protein that is a good source of omega-3 fatty acids."
+                    "value": "Tuna is a delicious seafood option that can be enjoyed in many different ways. It is high in protein and low in fat, making it an ideal choice for a healthy meal."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:17.222763Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDyt3izBI43UqpqJmiaLM9pITByyABb9djzePUDVSCPAkRCHsuNNHIsGSzEA&s",
+        "effectiveDate": "2023-05-25T10:54:59.768029Z",
+        "imageUrl": "https://media.istockphoto.com/id/1334276621/photo/bluefin-tuna-thunnus-thynnus-saltwater-fish.jpg?b=1&s=170667a&w=0&k=20&c=amMgkD3gbvdqBAk0qE73u1H4c7GOHipUYtZmeqs65LI=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1823,20 +1823,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A fatty fish that is a good source of omega-3 fatty acids."
+                    "value": "Our Salmon is a delicious and healthy seafood option that is perfect for any occasion. It's an excellent source of protein, omega-3 fatty acids, and other essential vitamins and minerals."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:18.039954Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPX1w9qjV98bjT5GUeMhR5pgaMTq3pzdL1n-YRUhmBFYNZRJJA-eK1opCeAA&s",
+        "effectiveDate": "2023-05-25T10:55:01.306256Z",
+        "imageUrl": "https://media.istockphoto.com/id/532571540/photo/raw-salmon-on-baking-paper.jpg?b=1&s=170667a&w=0&k=20&c=OLZfDFYdam4iNY7Jh0MD98w90V9NWEB5ajhQWm0y-9k=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1874,20 +1874,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A low-calorie protein that is a good source of selenium."
+                    "value": "Our Shrimp is a delicious and healthy seafood option. It's wild caught and sourced from the cleanest waters, ensuring that you get the best quality product."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:18.964498Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbG82vwc4hsHxdEdmUOLo-pL2idsK9t-1IVUoxQ80ndqQoERPciq5K2iaJaww&s",
+        "effectiveDate": "2023-05-25T10:55:02.840656Z",
+        "imageUrl": "https://media.istockphoto.com/id/610264540/photo/cajun-shrimp.jpg?b=1&s=170667a&w=0&k=20&c=bPTlvmcvpRGzwtvIdSo2W6_E1dLMge73yfysFVW6Xh8=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1925,20 +1925,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A crustacean with a hard shell and ten legs."
+                    "value": "Our fresh and delicious crab is harvested from the cold waters of the Pacific Ocean. Its firm, succulent and sweet meat makes it a favorite among seafood lovers."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.29,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:19.783608Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAJoFBB8fSIzCE0yE8o8Xf5gN9PpKzwtGfmWPhwKpobTls3XiMKZGxrIc0ow&s",
+        "effectiveDate": "2023-05-25T10:55:04.669177Z",
+        "imageUrl": "https://media.istockphoto.com/id/472497550/photo/crab.jpg?b=1&s=170667a&w=0&k=20&c=fu5CT3bXv7DouvkAHkvHiNkQL5ZsY8YNRwMdXfc5OLc=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -1976,20 +1976,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A large marine crustacean with a long, spiny tail."
+                    "value": "Our delicious Lobster is the perfect addition to any seafood meal. This succulent seafood delicacy is caught fresh off the coast and brought right to your plate. The sweet, tender meat of this lobster will make your taste buds sing with delight."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 4.09,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:20.500601Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmTA7PJeww8El_9tg2T2U3D0AfVItmzF1JF3eP8jNP1kh5_bGwD95sjzLZ4VU&s",
+        "effectiveDate": "2023-05-25T10:55:06.330108Z",
+        "imageUrl": "https://media.istockphoto.com/id/535718979/photo/boiled-lobster.jpg?b=1&s=170667a&w=0&k=20&c=uT2CjBzgb2b3TvLFraPWdMxnxUWsxWom_JijgMyaUrs=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2027,20 +2027,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A salad made with tuna, mayonnaise, and celery."
+                    "value": "Tuna Salad is a delicious and healthy salad that is perfect for lunch or dinner. It's made with fresh tuna, crisp lettuce, tomatoes, cucumbers, radishes, onions and our signature house dressing."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 3.6900000000000004,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:21.218260Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiu5L5OIHLFvZkREPV_7pyXU1yTjzeJ8mdTxF4G7hvSN1irCsuoC0OIa8gLA&s",
+        "effectiveDate": "2023-05-25T10:55:07.709573Z",
+        "imageUrl": "https://media.istockphoto.com/id/1251313383/photo/bowl-of-tuna-fish-salad.jpg?b=1&s=170667a&w=0&k=20&c=6WvZQYwnv0cR56DeefyObIGJBxixwPCZbToQv7gNm9o=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2078,20 +2078,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A salad made with chicken, mayonnaise, and celery."
+                    "value": "This delicious Chicken Salad is a classic favorite. Our Chicken Salad is made with freshly cooked chicken and a blend of fruits, vegetables and herbs. The unique combination of ingredients gives this salad a delightful flavor that will have you coming back for more."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 4.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:21.906261Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAQFT_-GaMqLWRnBbdfQC7G64PpzANMeOFoClRa0G1-zJH9ZCqXxS2plEjf48&s",
+        "effectiveDate": "2023-05-25T10:55:08.957146Z",
+        "imageUrl": "https://media.istockphoto.com/id/671436910/photo/homemade-healthy-chicken-salad.jpg?b=1&s=170667a&w=0&k=20&c=PT_NYxacmdRuILLjLFRJan8fjqDUpzUPvuM6dnWfsnc=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2129,20 +2129,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A salad made with ham, mayonnaise, and celery."
+                    "value": "Our Ham Salad is the perfect addition to any meal. It's made with freshly-chopped ham, combined with crisp lettuce and juicy tomatoes. This salad has a light, creamy dressing that gives it a unique flavor and texture."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 4.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:22.748576Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYMx2-bkovP7_YjgbVuz_vHjJW-LIpkr_n24InJ52ela7dGW1BERQXwaps_c&s",
+        "effectiveDate": "2023-05-25T10:55:10.490933Z",
+        "imageUrl": "https://media.istockphoto.com/id/1064632442/photo/chefs-salad-with-roast-turkey-and-black-forest-ham.jpg?b=1&s=170667a&w=0&k=20&c=DX0GZJmfyMkK_gMmx2PLgfXINmab2p0hu8oawuEeAbo=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2180,20 +2180,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with peanut butter, jelly, and two slices of bread."
+                    "value": "This Peanut Butter and Jelly sandwich is a classic treat that never goes out of style. The perfect combination of creamy peanut butter and sweet jelly is sure to satisfy any craving."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:23.473653Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVAp8s908GcV1soJLDh3TjBK3UsKCG1Klvm0xpcxUN1ojp7JlylNaFfir7jvs&s",
+        "effectiveDate": "2023-05-25T10:55:11.817116Z",
+        "imageUrl": "https://media.istockphoto.com/id/454170501/photo/peanut-butter-and-jelly-sandwich.jpg?b=1&s=170667a&w=0&k=20&c=LPAJf1kL_TVtw6sJAjgcEkhLBo8IuSXrLgj4CL8aVc0=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2231,20 +2231,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with bologna, cheese, and two slices of bread."
+                    "value": "Bologna and Cheese is the perfect sandwich for any occasion. This classic combination of bologna and cheese is sure to satisfy your cravings."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:24.285576Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvgn9Uy8_3K9gpxrsfyJEWKD2B0aFs8e729RVslgVOc2AH6Ld-6HeRFAdivA&s",
+        "effectiveDate": "2023-05-25T10:55:13.167825Z",
+        "imageUrl": "https://media.istockphoto.com/id/176094601/photo/bologna-sandwich-on-a-cutting-board.jpg?b=1&s=170667a&w=0&k=20&c=9D5oFqiVIskE9MoSn_9PmwsBDY-1c8euQcR0laxREPA=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2282,20 +2282,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with cheese between two slices of bread that have been grilled until the cheese is melted."
+                    "value": "Our Grilled Cheese sandwich is a classic - perfect for anyone looking for a delicious, gooey treat. Our sandwich is made with quality cheddar cheese and grilled to perfection on thick-cut white bread."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 2.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:25.107102Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuy5sPN0baZh06FYGtRu0z1fF1-5TptbSVAvSp8vIcp3H-GRSfmAet2VJTyw&s",
+        "effectiveDate": "2023-05-25T10:55:14.790353Z",
+        "imageUrl": "https://media.istockphoto.com/id/1172821079/photo/grilled-cheese-sandwich-close-up.jpg?b=1&s=170667a&w=0&k=20&c=xgWZdx3gXUvlfQVzzD4KwFE9BO9X2GQqCWcLHTRHwkg=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2333,20 +2333,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with turkey, mayonnaise, lettuce, tomato, and two slices of bread."
+                    "value": "This delicious Turkey Sandwich is made with freshly baked bread and juicy, succulent turkey slices. It is served with a layer of mayonnaise and crisp lettuce leaves, making it the perfect lunchtime snack."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:26.025708Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44Do3JrV9vq0sq0b8CTs0O91mVpKZkG37Aryjp6mcsrLSxCDv-Li7tYE79FQ&s",
+        "effectiveDate": "2023-05-25T10:55:16.007823Z",
+        "imageUrl": "https://media.istockphoto.com/id/1256670482/photo/turkey-sandwich-with-tomato-and-lettuce.jpg?b=1&s=170667a&w=0&k=20&c=Zk8UK6pxJIxXN-CasYutDyOoFTQ5fCf0UU2sxY0i8Bo=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2384,20 +2384,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with turkey, ham, bacon, lettuce, tomato, mayonnaise, and two slices of bread."
+                    "value": "Our Club Sandwich is a classic American favorite. With layers of turkey, bacon, lettuce, tomato, and mayonnaise served on toasted white bread, it's sure to make your mouth water."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 4.49,
+        "price": 3.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:26.547396Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiRS8FRU1ouZCAevr3661qDSg447kNRgsBtFP7vaS3BpX9i6ADbPtEIW1ttw&s",
+        "effectiveDate": "2023-05-25T10:55:17.583936Z",
+        "imageUrl": "https://media.istockphoto.com/id/1397193477/photo/club-sandwich-made-with-bacon-ham-turkey-cheese-lettuce-and-tomato.jpg?b=1&s=170667a&w=0&k=20&c=Sz2aFQ_oQeho9s435e37D88Svv0uHwewqB9ZVaDiUg4=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2435,20 +2435,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with your choice of bread, meat, cheese, vegetables, and sauce."
+                    "value": "Subway Sandwich is a delicious and convenient meal option that's perfect for any occasion. Our signature sandwich, made with freshly baked bread, premium meats and cheeses, crisp veggies, and zesty sauces, will tantalize your taste buds."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 6.99,
+        "price": 7.890000000000001,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:27.060056Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj7HjQz1QtF7fxEA3Kehu6uPy9cIpCPZkFcLFfhSMZv5UGvODhW3ZxrAjobg&s",
+        "effectiveDate": "2023-05-25T10:55:18.923608Z",
+        "imageUrl": "https://media.istockphoto.com/id/1160335708/photo/ham-and-vegetable-with-whole-wheat-bread-sandwich.jpg?b=1&s=170667a&w=0&k=20&c=VjEsl7RqEpEH_wJjGZiWAsWpYLNKkOFo7HNoPGiRNpY=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2486,20 +2486,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with a ground beef patty, lettuce, tomato, onion, pickles, and mayonnaise on a bun."
+                    "value": "Introducing the delicious hamburger from our fast food range. This juicy and flavorful hamburger is made from 100% ground beef and cooked to perfection."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 4.99,
+        "price": 3.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:27.620885Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsvWwKMh4lEbgqu00iwPIyPc3DfK_gHuhpHJ7JZn6f0Htc4ZuZYrvDjU8Ih_M&s",
+        "effectiveDate": "2023-05-25T10:55:20.259942Z",
+        "imageUrl": "https://media.istockphoto.com/id/1309352410/photo/cheeseburger-with-tomato-and-lettuce-on-wooden-board.jpg?b=1&s=170667a&w=0&k=20&c=1cK5UjNzhvbvqLX6sOG-lIjWv5FuRhfsbI0dIqNAla8=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2537,20 +2537,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A hamburger with cheese."
+                    "value": "Treat yourself to the classic taste of a delicious Cheeseburger. Our juicy burger patty is topped with melted cheese and your choice of fresh toppings like lettuce, tomatoes, onions, pickles, and ketchup."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 5.99,
+        "price": 4.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:28.337360Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4rA-tTXSrgwl9S8xjwWc5s3GzLEZCkjJpwegxOsmXSVjBTqUccoW-pRePNQ&s",
+        "effectiveDate": "2023-05-25T10:55:21.540689Z",
+        "imageUrl": "https://media.istockphoto.com/id/617364554/photo/hamburger-with-fries.jpg?b=1&s=170667a&w=0&k=20&c=RQUSRPv4YfK2x8Pkkd1bam_QsDhKEQVb5BNlOL8yrWA=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2588,20 +2588,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sandwich made with a chicken patty, lettuce, tomato, onion, pickles, and mayonnaise on a bun."
+                    "value": "This delicious Chicken Sandwich is the perfect fast food option for your lunchtime cravings. It features a juicy, marinated chicken breast fillet, topped with lettuce, tomato and mayonnaise on a fresh bakery-style bun."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 5.99,
+        "price": 6.09,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:28.994436Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQAeD4B3Y8EaeaniprHayTlpFwW_op0d0NhlwWmFcBIoYc8JdtXTCz3ye4n4&s",
+        "effectiveDate": "2023-05-25T10:55:22.771578Z",
+        "imageUrl": "https://media.istockphoto.com/id/521207406/photo/southern-country-fried-chicken-sandwich.jpg?b=1&s=170667a&w=0&k=20&c=RHB7g9Cjd_jOblyVtK35UQVsizI6zjkROGZRKok93DI=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2639,20 +2639,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sausage in a long, soft roll that has been grilled or steamed."
+                    "value": "This delicious hotdog is the perfect fast food for any occasion. Made with premium ingredients, it's sure to delight your taste buds. Our hotdog comes in a variety of flavors and toppings, so you can enjoy a different experience each time."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 3.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:29.519471Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiI-yP1qo9IWIL_3snxOo-T41oPeev0kOiw-W_alj5iI7vuSY5f_plMh7uw&s",
+        "effectiveDate": "2023-05-25T10:55:24.245891Z",
+        "imageUrl": "https://media.istockphoto.com/id/96777273/photo/evolution.jpg?b=1&s=170667a&w=0&k=20&c=R_yPYLcqyc7Or1OY4ZhAHqSB2MeCU7v74uNRkT4ejbY=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2690,20 +2690,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A side dish of deep-fried potatoes that have been cut into strips."
+                    "value": "Treat yourself to the classic taste of our French Fries. Our fries are made with only the freshest ingredients, and cooked to perfection. Enjoy a delicious crunch with every bite."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:30.349794Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKSkW2AUpoDy3VNIknead9vng5i3eW1-ci402ma2PEkZYWyzRgWkSqsYXrQ&s",
+        "effectiveDate": "2023-05-25T10:55:25.887271Z",
+        "imageUrl": "https://media.istockphoto.com/id/531189325/photo/fast-food.jpg?b=1&s=170667a&w=0&k=20&c=xvdhxTWNFKQpdpvMikBEUjDcoepllu2TGahu9-inGIQ=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2741,20 +2741,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A side dish of deep-fried onions that have been coated in batter."
+                    "value": "Our crunchy and delicious onion rings are the perfect accompaniment to any meal. Made with freshly cut onions and a crispy coating, these golden-brown rings will make your taste buds dance."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 2.5900000000000003,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:31.352136Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHo5jS5BbviGdR6ZEp3AL6VV-lQI1_gmj1ovaiu7gAz6JY89rE77lz9lz2lg&s",
+        "effectiveDate": "2023-05-25T10:55:27.077813Z",
+        "imageUrl": "https://media.istockphoto.com/id/533423341/photo/crispy-onion-rings-close-up.jpg?b=1&s=170667a&w=0&k=20&c=m90NmU8mcs3hFOq-1AWN1rhuLdT65MFg80E1_KJWWm8=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2792,20 +2792,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A side dish of deep-fried mozzarella cheese sticks."
+                    "value": "Mozzarella Sticks are a classic fast food treat that everyone loves. Enjoy the perfect combination of gooey, melted mozzarella cheese and golden, crunchy breadcrumbs."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 4.19,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:32.273123Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXtQN2rtUNlRS50HP9edjb9Bnitq7Mg7mDgAHAM3xmwrf5tQRzCUHcT31eg&s",
+        "effectiveDate": "2023-05-25T10:55:28.299889Z",
+        "imageUrl": "https://media.istockphoto.com/id/667107068/photo/breaded-mozzarella-sticks.jpg?b=1&s=170667a&w=0&k=20&c=X83v2xHPX9bQaGU0YeqATgWw0tGW9udpfVF2fMOOVTs=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2843,20 +2843,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A side dish of deep-fried chicken pieces."
+                    "value": "Our delicious Chicken Nuggets are the perfect fast food snack. Made from premium quality chicken, these nuggets are juicy, crunchy and full of flavor. Enjoy them on their own or with your favorite dipping sauce for the ultimate indulgence."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 4.49,
+        "price": 4.390000000000001,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:33.047947Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTviCA26NzL96jaCf7klV7Ps12F-zVeUTFmK5oePhXhBEBKCW3HhJbewnlajas&s",
+        "effectiveDate": "2023-05-25T10:55:29.958549Z",
+        "imageUrl": "https://media.istockphoto.com/id/618209540/photo/basket-of-chicken-nuggets-with-sweet-and-sour-sauce.jpg?b=1&s=170667a&w=0&k=20&c=aergKkHrF8j2J0QS2Dj6FKfK8KAxQSdFWZbttFCLLVs=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2894,20 +2894,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A flatbread that has been topped with tomato sauce, cheese, and your choice of toppings."
+                    "value": "Enjoy a delicious slice of pizza with your favorite toppings. Our pizza is made with only the freshest ingredients, cooked to perfection and served hot."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 5.99,
+        "price": 6.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:33.841056Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-8NwCPybe-5D_SptqbrqfxDsXxg6c_LFwM8_-JtRAyzRvix5GvmJUOZzh3Q&s",
+        "effectiveDate": "2023-05-25T10:55:31.184045Z",
+        "imageUrl": "https://media.istockphoto.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?b=1&s=170667a&w=0&k=20&c=QRY0Pvxx2u6GT7sh7pULn5SRh2dh5zD9DOmOj9cQF18=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2945,20 +2945,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A dish of mixed greens and vegetables that may be topped with dressing."
+                    "value": "This delicious salad is a great way to add some flavor and nutrition to your meal. It's made with fresh, high-quality ingredients that are sure to make it a hit."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 5.99,
+        "price": 5.390000000000001,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:34.633087Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7mxbFyYAY9NmmOiLxgyFT7fQSCy6Gsp4r1ovBu144Nw-CMoR8zehiUIZaAQ&s",
+        "effectiveDate": "2023-05-25T10:55:32.845296Z",
+        "imageUrl": "https://media.istockphoto.com/id/175197961/photo/salad-plate.jpg?b=1&s=170667a&w=0&k=20&c=vQQY3z-4zO10WZxqVqJ_tBzM2cvXKu-EcKXQE3A70fg=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -2996,20 +2996,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A dish of pasta that has been topped with tomato sauce and cheese."
+                    "value": "Our delicious Spaghetti is a classic Italian pasta made from durum wheat. It has a unique texture and flavor that will bring any dish to life."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 5.99,
+        "price": 6.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:35.549159Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcXSQvWzZMaoWoQ627KDreI45-MC5YguLSBciZeqbuWaxx2O4jwJ7VSEWQFcU&s",
+        "effectiveDate": "2023-05-25T10:55:34.038740Z",
+        "imageUrl": "https://media.istockphoto.com/id/1144823591/photo/spaghetti-in-a-dish-on-a-white-background.jpg?b=1&s=170667a&w=0&k=20&c=lsu8-UEyH3iDfwHbFtkKv254tAys_UShCUpBXMR3P1Q=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3047,20 +3047,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A baked dish of pasta that has been layered with tomato sauce, cheese, and meat or vegetables."
+                    "value": "Our Lasagna is a delicious Italian-style pasta dish made with layers of cheese, meat, and noodles. Our lasagna is perfect for an easy weeknight meal or a special occasion."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 6.99,
+        "price": 7.29,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:36.059364Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxGrVEk62ht9HALQAoELBGE4_BwuhkhDCnkDOHM88tY_T6iKiVa3gZspU3vg&s",
+        "effectiveDate": "2023-05-25T10:55:35.313024Z",
+        "imageUrl": "https://media.istockphoto.com/id/535851351/photo/lasagna-on-a-square-white-plate.jpg?b=1&s=170667a&w=0&k=20&c=kcmkTTCw6EchOzs2QEbNwOwmy_f7Dv7bAIDQV_kf-Bc=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3098,20 +3098,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A dish of cooked pasta that may be topped with sauce or other ingredients."
+                    "value": "Our delicious pasta is made from the finest ingredients and expertly crafted by our master chefs. It's perfect for any occasion, whether it be a family dinner or a special event."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 4.99,
+        "price": 4.890000000000001,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:36.876688Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFEoG4U-QtgUPy5-vftFAJ-WA2n4vi9lTXiIuxNFfbowVfEevbooY5KD29pSY&s",
+        "effectiveDate": "2023-05-25T10:55:36.698883Z",
+        "imageUrl": "https://media.istockphoto.com/id/185065945/photo/pasta-variation.jpg?b=1&s=170667a&w=0&k=20&c=GIAJBiBr5iHn0cOKTwKzFIeHkt1i8ncC7OGrJyNl-lA=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3149,20 +3149,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A chicken that has been roasted in the oven."
+                    "value": "Our Roast Chicken is a succulent and juicy cut of chicken that is perfect for any meal. It's made with high quality, all-natural ingredients and slow-roasted to perfection. The result."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 7.99,
+        "price": 7.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:37.807545Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRikyEGAY-fJSMHj11_gYlys-yM86d5WYPv_QqZWroD1h4Xbe-O8I5aeJxECQ&s",
+        "effectiveDate": "2023-05-25T10:55:38.329480Z",
+        "imageUrl": "https://media.istockphoto.com/id/1268693109/photo/roast-chicken.jpg?b=1&s=170667a&w=0&k=20&c=b-0MdKpFC2WpOerUwXvrbPbnAqdWIFslrLBEIMdRCaA=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3200,20 +3200,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A beef that has been roasted in the oven."
+                    "value": "Our Roast Beef is a delicious and flavorful cut of meat that can be enjoyed in many different ways. It is perfect for a Sunday roast, sandwiches, salads, soups and more."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 8.99,
+        "price": 7.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:38.628427Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsH7u4-f6Y6vvb-rbTTHN2Ycw6jNzdsi1l-XPGq47e9E9jVS7JpOHdeyoQWA&s",
+        "effectiveDate": "2023-05-25T10:55:39.776145Z",
+        "imageUrl": "https://media.istockphoto.com/id/1163771402/photo/slicing-eye-of-round-roasted-beef-with-knife.jpg?b=1&s=170667a&w=0&k=20&c=47dy1sDVxXP7PjBgz539H0NVeFQ1CU4nfx3S_PT30cM=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3251,20 +3251,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A cut of beef that has been grilled or broiled."
+                    "value": "This delicious steak is sure to make your taste buds happy. It's made from 100% premium, grass-fed beef and is perfect for grilling, pan-frying, or oven roasting."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 9.99,
+        "price": 10.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:39.448165Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHJarthuUzbAxXDbhIAVbVMnROtkaiQ9dgwVOTB1JhwERaRpMfVtfcEEzWfk&s",
+        "effectiveDate": "2023-05-25T10:55:40.907289Z",
+        "imageUrl": "https://media.istockphoto.com/id/981092168/photo/steaks-from-fresh-meat.jpg?b=1&s=170667a&w=0&k=20&c=IybRXBAcbuoVuhCfRfZkg3xv5xw5gPqDF86W2KIlOes=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3302,20 +3302,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A bird that has been cooked in the oven or on the grill."
+                    "value": "Chicken is a type of meat that is enjoyed by people around the world. It is a versatile and delicious option for any meal. It can be cooked in many different ways, including roasted, grilled, fried, or baked."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 6.99,
+        "price": 6.59,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:40.361757Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx6PRxN74jGV0A1ViDNDqVUO48-IICrPvgZfiwEJajMvgF9NgBdQaO6LtUOA&s",
+        "effectiveDate": "2023-05-25T10:55:42.087031Z",
+        "imageUrl": "https://media.istockphoto.com/id/1217649450/photo/chicken-or-hen-on-a-green-meadow.jpg?b=1&s=170667a&w=0&k=20&c=wZttCQfMmNwkoZ8N6Hv4Mitd6v1v5tzOsvvazAG_PjE=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3353,20 +3353,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A mammal that has been cooked in the oven or on the grill."
+                    "value": "Beef is a type of meat that comes from cows and other bovine animals. It is rich in protein and essential vitamins and minerals, making it a great source of nutrition. It also has a rich flavor that adds depth to any dish."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 7.99,
+        "price": 8.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:40.876494Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScAgShQ1fVVal8iNMMw3plr6HP1ojNwjW8iQLfqpN_tnj6umADHb9tKJaIhg&s",
+        "effectiveDate": "2023-05-25T10:55:43.299519Z",
+        "imageUrl": "https://media.istockphoto.com/id/535786572/photo/grilled-striploin-steak.jpg?b=1&s=170667a&w=0&k=20&c=A4h_JCxhml31g1X_XEVMOMOlyRPRw9E-FS4jJN-Ugeg=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3404,20 +3404,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A mammal that has been cooked in the oven or on the grill."
+                    "value": "Pork is an incredibly versatile meat that can be used in a variety of dishes. It is packed full of flavor, and its leanness makes it a great option for those looking to make healthier meals."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 6.99,
+        "price": 7.19,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:41.620774Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXWIVF4UAg2yc1SGByX7fjmcZdXZ4xyucqiQ7ld-0FK8B0deVqE6AyfrHeYR8&s",
+        "effectiveDate": "2023-05-25T10:55:44.394680Z",
+        "imageUrl": "https://media.istockphoto.com/id/521415161/photo/homemade-hot-pork-tenderloin.jpg?b=1&s=170667a&w=0&k=20&c=jplMHxgBTyqeyXc65gOLxd16yLoqd70h45D1RRr4bOg=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3455,20 +3455,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A baked good that is made from flour, water, and yeast."
+                    "value": "This delicious bread is made with the highest quality ingredients and traditional baking methods. It has a light, fluffy texture and a wonderful flavor that will please any palate. Enjoy it on its own or as part of your favorite sandwich."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:42.409478Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSluvXqHyujTKjmwp7xAhCBBAVlY3ODPcpNifaWieyB73JiePs6VeTYDT5_Sw&s",
+        "effectiveDate": "2023-05-25T10:55:45.659551Z",
+        "imageUrl": "https://media.istockphoto.com/id/995038782/photo/heap-of-bread.jpg?b=1&s=170667a&w=0&k=20&c=XImXQgwPS3VdfINu5c4OlG9osAzGT6ts58wKwAZb0JI=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3506,20 +3506,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet course that concludes a meal."
+                    "value": "Indulge in the sweet taste of our delicious Dessert. Our Dessert is made with quality ingredients to ensure a rich, flavorful experience."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 3.89,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:43.137366Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-9w6jj-gwdP3a5NAs-ropESUflfPdITJAxnaCvoOCPt8YnyPt0WWEFeiuAQ&s",
+        "effectiveDate": "2023-05-25T10:55:47.209538Z",
+        "imageUrl": "https://media.istockphoto.com/id/497959594/photo/fresh-cakes.jpg?b=1&s=170667a&w=0&k=20&c=sR5so1fJnXoo_hZnJ_3ZMAi7eCifbXo0UE4BoqeWzVc=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3557,20 +3557,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet, baked dish of one or more layers of sweet cake batter, often with a layer of frosting or other filling between the layers."
+                    "value": "This delicious Cake is the perfect way to celebrate any special occasion. Made with only the finest ingredients, this classic dessert is sure to delight. With its moist and fluffy texture, this Cake will be a crowd-pleaser at any gathering."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 4.99,
+        "price": 4.890000000000001,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:43.840709Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpUQwgvr_ZReC3WDl1wAaGJ5_Rtg-NKLgX28_N7zp7nAgCElJ-T38D61YJ_ZA&s",
+        "effectiveDate": "2023-05-25T10:55:48.513308Z",
+        "imageUrl": "https://media.istockphoto.com/id/1136810581/photo/birthday-cake-decorated-with-colorful-sprinkles-and-ten-candles.jpg?b=1&s=170667a&w=0&k=20&c=OphwD8QZhsghyG5W7P8MzD1uw9Nze38zf6JvdDxcjRU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3608,20 +3608,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A baked dish of fruit, custard, or other filling enclosed in a crust."
+                    "value": "This delicious Pie is perfect for any occasion. Made with only the finest ingredients, this treat is sure to please all your guests. The flaky crust gives way to a creamy filling bursting with flavor."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 4.99,
+        "price": 4.390000000000001,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:44.872561Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQf0O1vtHXOaVYsckg6m79hpJcF6Ngv3rl8vqZ5FV-cKdgZaY9LqZIZ-cNg&s",
+        "effectiveDate": "2023-05-25T10:55:49.817825Z",
+        "imageUrl": "https://media.istockphoto.com/id/1345857656/photo/assortment-of-homemade-fall-pies-table-scene-on-dark-wood.jpg?b=1&s=170667a&w=0&k=20&c=YzN-tsbTb85JjjoS6TgXNWkQa5nn3pWCnE2Gx6AoGdM=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3659,20 +3659,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A small, flat, sweet cake, typically made with flour, sugar, butter, and eggs."
+                    "value": "These delicious cookies are the perfect treat for any occasion. Made with only the finest ingredients, they feature a light and fluffy texture that melts in your mouth."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:45.790638Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlZFJPop-MucxzzeI-oCaWvr2rcbQRmqwEzdzoY2yyHQ-_FbPG8_RWc2J5y5c&s",
+        "effectiveDate": "2023-05-25T10:55:51.170676Z",
+        "imageUrl": "https://media.istockphoto.com/id/1056059670/photo/steps-of-chocolate-chip-cookie-being-devoured-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=Gly5FP3v5uq74jKon5kEYZAQ7P-8JanXVGN4oKBWRaQ=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3710,20 +3710,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A small, round, chocolate-covered candy with a ganache filling."
+                    "value": "Our Chocolate Truffles are the perfect indulgent treat. Made with a delicious blend of creamy chocolate and fine cocoa, these truffles will satisfy any sweet tooth. Their smooth texture and rich flavor make them an irresistible dessert for any occasion."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.99,
+        "price": 4.59,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:46.612747Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtWCZQzlBXi2v5KEqEsea-yMuGVb8qRsKZO0e1LmqBZPB7zfi5zaTyyjPJQ&s",
+        "effectiveDate": "2023-05-25T10:55:52.724322Z",
+        "imageUrl": "https://media.istockphoto.com/id/619756784/photo/chocolate-truffles-sprinkled-with-cocoa-powder-close-up.jpg?b=1&s=170667a&w=0&k=20&c=Tqe0gf_rQLU8hQvQE9E0ZNIGoNDk4Njbc7BAo3zFNLs=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3761,20 +3761,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A sweet food made with sugar, typically combined with other ingredients such as chocolate, nuts, or fruit."
+                    "value": "This delicious Candy is the perfect treat for any occasion. Made with only the finest ingredients, it's sure to satisfy your sweet tooth. Enjoy this dessert on its own or pair it with ice cream for a truly decadent experience."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:47.529795Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_bvb9Vy3NAm4LcP05qtgy6-WsicaPaoScZSGAJWgXpD6g8_QHlDOr6KGZaw&s",
+        "effectiveDate": "2023-05-25T10:55:54.450935Z",
+        "imageUrl": "https://media.istockphoto.com/id/615726970/photo/boy-in-skeleton-costume-holding-bowl-full-of-candies.jpg?b=1&s=170667a&w=0&k=20&c=zWQULlNeezCl3VoBnp5FqWTsv62jAOVgvUGxmi3ogNU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3812,20 +3812,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A food made from roasted and ground cacao seed kernels, that is available as a liquid, solid or paste, on its own or as a flavoring agent in other foods."
+                    "value": "Our Chocolate is a decadently delicious dessert that will have your taste buds dancing. Our creamy and rich cocoa flavor is sure to satisfy every chocolate lover. Made with premium quality ingredients, this treat is sure to be a hit in any household."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 2.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:48.352164Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDsGUh6JrdPKaB2EofRUlu1BP_oSG16kxlGeC6OKHTYwMjcw4sc4c19vQkRA&s",
+        "effectiveDate": "2023-05-25T10:55:55.476583Z",
+        "imageUrl": "https://media.istockphoto.com/id/1276645382/photo/chocolate-assortment-background-top-view-of-different-kinds-of-chocolate.jpg?b=1&s=170667a&w=0&k=20&c=QE1BqetRXVKuVduV4Km0fTRvKTT6NOuKciljjYnUA24=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3863,20 +3863,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A flavor combination of chocolate cookies and vanilla ice cream."
+                    "value": "Cookies and Cream is a delicious dessert that is sure to please any sweet tooth. This creamy treat combines two classic flavors, chocolate cookies and creamy vanilla, for an indulgent combination."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 4.29,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:49.369934Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx-AdxNa4oG_BcKTUv1jhMWCni8hKdbozHLnMoDtGxAQflUeAHy7EB2VXzIQ&s",
+        "effectiveDate": "2023-05-25T10:55:56.904556Z",
+        "imageUrl": "https://media.istockphoto.com/id/1227313336/photo/closeup-of-falling-delicious-chocolate-sandwich-cookies-and-sweet-glaze-against-white.jpg?b=1&s=170667a&w=0&k=20&c=XKQQ0yroyWtL896TswRbtslgnTiymOSbUiWkDsrlkPo=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3914,20 +3914,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A flavor combination of mint and chocolate."
+                    "value": "Mint Chocolate Chip is a classic dessert that's sure to please any sweet tooth. Made with rich, creamy mint ice cream and sprinkled with decadent mini chocolate chips, this frozen treat is the perfect way to end any meal."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 4.09,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:50.193063Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQ4R_MzajFvSIR8Lnc1I8pVw3Wz2-yG98MtrW-RF0SDpoZJWU4ahWAiZ8lw&s",
+        "effectiveDate": "2023-05-25T10:55:58.563112Z",
+        "imageUrl": "https://media.istockphoto.com/id/477694264/photo/chocolate-chip-mint-ice-cream-cookie-sandwiches.jpg?b=1&s=170667a&w=0&k=20&c=K1bkifmxd79y9etuZkJHkghA932s5nYKNMQKzJaYjzY=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -3965,20 +3965,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A flavor combination of strawberry and vanilla."
+                    "value": "Our Strawberry dessert is a delicious treat that everyone will love. This delectable dessert is made with fresh, juicy strawberries and is sure to please your taste buds. Enjoy the sweet, fruity flavor of this scrumptious dish."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 4.49,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:51.039800Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEIAODJUU9nJQaJ6EPruDu_kxKk_YzpyrQaUr6nz7uybhJ0XJsxJ1yEzLnVQ&s",
+        "effectiveDate": "2023-05-25T10:56:00.093106Z",
+        "imageUrl": "https://media.istockphoto.com/id/1157946861/photo/red-berry-strawberry-isolated.jpg?b=1&s=170667a&w=0&k=20&c=wqDW-Z9zyYQQ6SfyvPMSR41rAeJbsD0ZtK--0xvsC0Q=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -4016,20 +4016,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A flavor combination of vanilla and cream."
+                    "value": "Our delicious Vanilla Ice Cream is the perfect treat to indulge in after a long day. This creamy and smooth dessert will tantalize your taste buds with its classic flavor. Made with only the finest natural ingredients, this ice cream is sure to delight."
                 }
             ]
         },
         "unitOfMeasure": "EA",
-        "price": 3.49,
+        "price": 2.79,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:51.732118Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYVLGV90phvJI1cYVF7MV_N4n-OWFXq7WDrwEBUsigP8n_K-mlsLhzspvoOgw&s",
+        "effectiveDate": "2023-05-25T10:56:01.813299Z",
+        "imageUrl": "https://media.istockphoto.com/id/1326143969/photo/bowl-with-vanilla-ice-cream-balls.jpg?b=1&s=170667a&w=0&k=20&c=bzLWih1MzXZnOb9x6929GXmBobUlyw4lEjxWytX7uxU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -4067,20 +4067,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A hot drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species."
+                    "value": "This delicious coffee is the perfect way to start your day. Our high-quality coffee beans are freshly roasted and ground for a smooth, rich flavor that can be enjoyed anytime."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:52.548603Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTib3suJpWP8ktGSB2bZkiMV5xj83RtHHbSMELlkpRMXbbOVdFmHzmaMoBGc8o&s",
+        "effectiveDate": "2023-05-25T10:56:03.013641Z",
+        "imageUrl": "https://media.istockphoto.com/id/1303583671/photo/cup-glass-of-coffee-with-smoke-and-coffee-beans-on-old-wooden-background.jpg?b=1&s=170667a&w=0&k=20&c=aVldamhbluP7K6ACdAEir6X8mGH7zwPur0p0mZWSXYI=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -4118,20 +4118,20 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "An infusion made from the leaves of the Camellia sinensis plant, prepared by pouring hot water over the leaves and allowing them to steep."
+                    "value": "Delight in the taste of freshly brewed Tea. Our Tea is made from the finest quality ingredients and offers a rich, full-bodied flavor that is sure to satisfy."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:53.596292Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm1jcrJBknIa-v828lzUxxFv_BBj_OTm-mqIlkHuWxjnv_xKtOcAW23EEtYn4&s",
+        "effectiveDate": "2023-05-25T10:56:04.574610Z",
+        "imageUrl": "https://media.istockphoto.com/id/1262729056/photo/fruit-tea-with-oranges-cinnamon-and-rosemary.jpg?b=1&s=170667a&w=0&k=20&c=dydIag3LuVmh67MZklggef0acpl6sNUGe1OvdYx89LU=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     },
     {
-        "version": 1,
+        "version": 3,
         "status": "ACTIVE",
         "dynamicAttributes": [
             {
@@ -4169,15 +4169,15 @@
             "values": [
                 {
                     "locale": "en-US",
-                    "value": "A carbonated soft drink."
+                    "value": "Soda is a delicious and refreshing drink that will quench your thirst. It comes in a variety of flavors, from classic cola to exotic fruit flavors like mango and pineapple."
                 }
             ]
         },
         "unitOfMeasure": "EA",
         "price": 1.99,
         "currency": "USD",
-        "effectiveDate": "2023-05-23T15:47:54.700504Z",
-        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSKH4OzKWvxEA5AlgN6EEhkplQOQnD4F4Y68Y296tLnMoEIHKk9kdCX0fZjA&s",
+        "effectiveDate": "2023-05-25T10:56:05.790786Z",
+        "imageUrl": "https://media.istockphoto.com/id/1189886657/photo/man-pours-a-fizzy-drink-sparkling-water-cool-ice-soft-drink-cola.jpg?b=1&s=170667a&w=0&k=20&c=4zrcowzuN3iDEEq-eSJBfwZiXrsm6lWNY7GfdFPy5es=",
         "groups": "28ba8df5",
         "nonMerchandise": false
     }
