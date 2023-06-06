@@ -8,7 +8,7 @@ export default async function handler(req, res) {
     res.status(result.status).json(result);
   } else if (req.method === 'GET') {
     let logs = [];
-    let homepageGroup = await getHomepageGroups('Homepage');
+    let homepageGroup = await getHomepageGroups('Hompage');
     if (homepageGroup.status !== 200) {
       res.status(homepageGroup.status).json(homepageGroup);
     }

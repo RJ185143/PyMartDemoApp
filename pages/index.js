@@ -12,6 +12,7 @@ import { useFetch } from '~/lib/swr/useFetch';
 function Home() {
   const { userStore } = useContext(UserStoreContext);
   const { data, isError, isLoading } = useFetch('/api/groups');
+  console.log(data);
 
   return (
     <Layout logs={data && data.logs ? data.logs : []}>
