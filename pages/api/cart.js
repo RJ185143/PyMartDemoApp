@@ -1,4 +1,5 @@
 import { createCart, addItemToCart, getCartItemsById, updateItemInCartById } from '~/lib/cart';
+
 let logs = [];
 export default async function handler(req, res) {
   let body = JSON.parse(req.body);
@@ -14,7 +15,7 @@ export default async function handler(req, res) {
       itemId: item.itemId.itemCode,
       scanData: item.itemId.itemCode,
       quantity: {
-        unitOfMeasure: 'EA', // ???
+        unitOfMeasure: 'EA',
         value: item.quantity
       }
     };
@@ -44,7 +45,7 @@ export default async function handler(req, res) {
         itemId: item.itemId.itemCode,
         scanData: item.itemId.itemCode,
         quantity: {
-          unitOfMeasure: 'EA', // ???
+          unitOfMeasure: 'EA',
           value: item.quantity
         }
       };

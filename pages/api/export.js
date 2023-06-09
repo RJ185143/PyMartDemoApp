@@ -1,26 +1,27 @@
 import groups from '~/data/groups.json';
-
 import { createGroup } from '~/lib/groups';
 import { createCatalog, createCategories, createSites, createTenant } from '~/lib/pymart';
 
 export default async function handler(_, res) {
   for (let i = 0; i < groups.length; i += 1) {
-    console.log(await createGroup(groups[i]));
+    await createGroup(groups[i]);
   }
 
   let tenantBody = {
-    'orgName': 'pymart-testing-1',
-    'orgDisplayName': 'PyMart Testing 1'
+    orgName: 'pymart-testing-demo',
+    orgDisplayName: 'PyMart Testing Demo App'
   };
-  let tenant = await createTenant(tenantBody);
+
+  await createTenant(tenantBody);
+
   let siteBody = {
-    'sizeSmall': 5,
-    'sizeMed': 10,
-    'sizeLarge': 2
+    numSmall: 5,
+    numMed: 10,
+    numLarge: 2
   };
-  await createSites(siteBody);
-  await createCatalog();
-  await createCategories();
+  console.log(await createSites(siteBody, tenantBody.orgName));
+  console.log(await createCatalog(tenantBody.orgName));
+  await createCategories(tenantBody.orgName);
 
   res.status(200).json({});
 }
