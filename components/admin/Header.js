@@ -19,7 +19,8 @@ const Header = ({ activeTab, tabs = true }) => {
     setIsExporting(true);
     fetch(`/api/export`)
       .then((res) => res.json())
-      .then(() => {
+      .then((res) => {
+        localStorage.setItem('org', res.orgName);
         setIsExporting(false);
         Router.reload(window.location.pathname);
       });

@@ -19,9 +19,9 @@ export default async function handler(_, res) {
     numMed: 10,
     numLarge: 2
   };
-  console.log(await createSites(siteBody, tenantBody.orgName));
-  console.log(await createCatalog(tenantBody.orgName));
+  await createSites(siteBody, tenantBody.orgName);
+  await createCatalog(tenantBody.orgName);
   await createCategories(tenantBody.orgName);
 
-  res.status(200).json({});
+  res.status(200).json({ orgName: tenantBody.orgName });
 }
