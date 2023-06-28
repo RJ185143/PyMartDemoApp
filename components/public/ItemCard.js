@@ -38,6 +38,7 @@ const ItemCard = ({ catalogItem = {}, showCartButton = true }) => {
         setAddedToCart(true);
       });
   };
+ 
 
   return (
     <Card className="border-0 shadow-sm item-card h-100">

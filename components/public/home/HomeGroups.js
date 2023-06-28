@@ -45,14 +45,6 @@ const HomeGroups = ({ isError, isLoading, userStore, data }) => {
                 </CardTitle>
                 <a href={`/group/${element.group.data.groupId.groupCode}`} className="btn btn-light">Shop Now</a>
               </CardBody>
-              <Image
-                src={element && element.group && element.group.data && element.group.data.tag ? element.group.data.tag : ''}
-                alt={`${element.group.data.title.values[0].value}`}
-                objectFit="cover"
-                width={200}
-                height={200}
-                className="rounded-circle"
-              />
             </Card>
           </Col>
         ))}
