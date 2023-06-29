@@ -35,7 +35,7 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
                           {/* <Row>
                           <Col sm={12} md={4}> */}
                           {Object.keys(children).map((child) => (
-                            <Link key={children[child].nodeCode} href={`/category/${children[child].nodeCode}`}>
+                            <Link key={children[child].nodeId.nodeId} href={`/category/${children[child].nodeId.nodeId}`}>
                               <DropdownItem>{children[child].title.value}</DropdownItem>
                             </Link>
                           ))}
