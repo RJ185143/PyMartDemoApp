@@ -39,75 +39,78 @@ const ItemCard = ({ catalogItem = {}, showCartButton = true }) => {
       });
   };
  
-
-  return (
-    <Card className="border-0 shadow-sm item-card h-100">
-      {item ? (
-        <a href={item ? `/catalog/${item.itemId.itemCode}` : '#'} aria-label={item.shortDescription.values[0].value}>
-          <Image
-            alt={item.shortDescription.values ? item.shortDescription.values[0].value : item.shortDescription.value}
-            src={
-                itemAttributes.imageUrls[0] !== '' && itemAttributes.imageUrls.length > 0 && itemAttributes.imageUrls[0] !== null
-                ? itemAttributes.imageUrls[0]
-                : 'https://via.placeholder.com/150'
-            }
-            layout="responsive"
-            width={255}
-            height={255}
-            className="p-4"
-          />
-        </a>
-      ) : (
-        <div className="p-4">
-          <Skeleton height="255px" />
-        </div>
-      )}
-      {item ? (
-        <CardBody className="d-flex pb-1">
-          <div className="align-self-end">
-            <a href={item ? `/catalog/${item.itemId.itemCode}` : '#'} className="h5 card-title mb-0">{item.shortDescription.values ? item.shortDescription.values[0].value : item.shortDescription.value}</a>
+  if (itemAttributes) {
+    return (
+      <Card className="border-0 shadow-sm item-card h-100">
+        {item ? (
+          <a href={item ? `/catalog/${item.itemId.itemCode}` : '#'} aria-label={item.shortDescription.values[0].value}>
+            <Image
+              alt={item.shortDescription.values ? item.shortDescription.values[0].value : item.shortDescription.value}
+              src={
+                  itemAttributes.imageUrls[0] !== '' && itemAttributes.imageUrls.length > 0 && itemAttributes.imageUrls[0] !== null
+                  ? itemAttributes.imageUrls[0]
+                  : 'https://via.placeholder.com/150'
+              }
+              layout="responsive"
+              width={255}
+              height={255}
+              className="p-4"
+            />
+          </a>
+        ) : (
+          <div className="p-4">
+            <Skeleton height="255px" />
           </div>
-        </CardBody>
-      ) : (
-        <CardBody className="py-0 border-none">
+        )}
+        {item ? (
+          <CardBody className="d-flex pb-1">
+            <div className="align-self-end">
+              <a href={item ? `/catalog/${item.itemId.itemCode}` : '#'} className="h5 card-title mb-0">{item.shortDescription.values ? item.shortDescription.values[0].value : item.shortDescription.value}</a>
+            </div>
+          </CardBody>
+        ) : (
+          <CardBody className="py-0 border-none">
+            <Row>
+              <Col md="12">
+                <Skeleton />
+              </Col>
+            </Row>
+          </CardBody>
+        )}
+        <CardFooter className={`bg-white font-weight-bold h6 ${!item && 'card-footer-loading'}`}>
           <Row>
-            <Col md="12">
-              <Skeleton />
+            <Col md="12" className="mb-2">
+              {itemPrices ? itemPrices.length > 0 ? `$${itemPrices[0].price}` : 'Not available at this store' : <Skeleton />}
             </Col>
+            {item && showCartButton && (
+              <Col sm="12" md="12">
+                <Button
+                  block
+                  className={`float-right ${addedToCart && 'fade-btn'}`}
+                  color={addedToCart ? 'success' : 'primary'}
+                  outline
+                  onClick={() => handleAddToCart(item)}
+                  onAnimationEnd={() => setAddedToCart(false)}
+                >
+                  {addingToCart && <Spinner size="sm" />}
+                  {addedToCart ? (
+                    <div>
+                      <FontAwesomeIcon icon={faCheckCircle} size="lg" />
+                      {'  '}Added
+                    </div>
+                  ) : (
+                    'Add to Cart'
+                  )}
+                </Button>
+              </Col>
+            )}
           </Row>
-        </CardBody>
-      )}
-      <CardFooter className={`bg-white font-weight-bold h6 ${!item && 'card-footer-loading'}`}>
-        <Row>
-          <Col md="12" className="mb-2">
-            {itemPrices ? itemPrices.length > 0 ? `$${itemPrices[0].price}` : 'Not available at this store' : <Skeleton />}
-          </Col>
-          {item && showCartButton && (
-            <Col sm="12" md="12">
-              <Button
-                block
-                className={`float-right ${addedToCart && 'fade-btn'}`}
-                color={addedToCart ? 'success' : 'primary'}
-                outline
-                onClick={() => handleAddToCart(item)}
-                onAnimationEnd={() => setAddedToCart(false)}
-              >
-                {addingToCart && <Spinner size="sm" />}
-                {addedToCart ? (
-                  <div>
-                    <FontAwesomeIcon icon={faCheckCircle} size="lg" />
-                    {'  '}Added
-                  </div>
-                ) : (
-                  'Add to Cart'
-                )}
-              </Button>
-            </Col>
-          )}
-        </Row>
-      </CardFooter>
-    </Card>
-  );
+        </CardFooter>
+      </Card>
+    );
+                  } else {
+                    return (<></>)
+                  }
 };
 
 export default ItemCard;
