@@ -7,7 +7,6 @@ import { Container, Collapse, Navbar, NavbarToggler, Nav, NavItem, UncontrolledD
 const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
   const [isOpen, setIsOpen] = useState(false);
   const toggle = () => setIsOpen(!isOpen);
-
   return (
     <Container className="py-2 bg-white">
       <Navbar expand="md" className="p-0 subheader-navbar" light color="faded">

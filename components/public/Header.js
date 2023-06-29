@@ -22,7 +22,7 @@ export default function Header({ logs }) {
       setIsModalOpen(true);
     }
   }, [isModalOpen]);
-
+  
   return (
     <div className="bg-white">
       <FindStoreModal modalProp={isModalOpen} toggle={toggleModal} />
