@@ -4,10 +4,13 @@ import { UserStoreContext } from '~/context/userStore';
 import ItemCard from '~/components/public/ItemCard';
 import useCatalog from '~/lib/swr/useCatalog';
 import Layout from '~/components/public/Layout';
+import { useRouter } from 'next/router';
 
-export default function Catalog({ query }) {
+export default function Catalog() {
+  const router = useRouter();
   const { userStore } = useContext(UserStoreContext);
-  const { data, isLoading, isError } = useCatalog(userStore.id, query);
+  const { query, page } = router.query;
+  const { data, isLoading, isError } = useCatalog(userStore.id, query, page);
 
   if (isLoading) {
     return (

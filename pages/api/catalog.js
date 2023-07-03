@@ -2,11 +2,12 @@ import _ from 'lodash';
 import { getSiteCatalogItemDetails } from '~/lib/catalog';
 
 export default async function handler(req, res) {
-  const catalogItems = await getSiteCatalogItemDetails(req.query.id, req.query.query);
+  const catalogItems = await getSiteCatalogItemDetails(req.query.id, req.query.query, req.query.page);
   if (catalogItems.status !== 200) {
     res.status(catalogItems.status).json(catalogItems);
   }
   let data = catalogItems.data.pageContent;
+  console.log(data);
   var sortByItemCode = function (obj) {
     return obj.item.itemId.itemCode;
   };

@@ -27,7 +27,7 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
                   delete children['array'];
                   if (Object.keys(children).length > 0) {
                     return (
-                      <UncontrolledDropdown nav inNavbar key={category.nodeCode}>
+                      <UncontrolledDropdown nav inNavbar key={category.nodeId.nodeId}>
                         <DropdownToggle nav caret>
                           {category.title.value}
                         </DropdownToggle>

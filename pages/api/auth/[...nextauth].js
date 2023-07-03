@@ -51,6 +51,7 @@ const options = {
             if (userProfile.status == 200) {
               let user = userProfile.data;
               let expiresAt = new Date();
+              console.log(expiresAt);
               expiresAt.setSeconds(expiresAt.getSeconds() + 900);
               let userSessionObj = {
                 token: authenticateUserResponse.data.token,
