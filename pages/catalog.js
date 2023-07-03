@@ -48,6 +48,8 @@ export default function Catalog({ query }) {
             </Col>
           ))}
         </Row>
+        <a href="#" class="previous">&laquo; Previous</a>
+        <a href="#" class="next">Next &raquo;</a>
       </div>
     </Layout>
   );
