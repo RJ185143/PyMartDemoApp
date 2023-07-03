@@ -123,7 +123,7 @@ const CatalogItem = ({ id }) => {
             data.catalogItem.data['categories'].length > 0 &&
             data.catalogItem.data['categories'].map((ancestor) => (
               <BreadcrumbItem key={ancestor.nodeCode}>
-                <Link href={`/category/${ancestor.nodeCode}`}>{ancestor.title.value}</Link>
+                <Link href={`/category/${ancestor.nodeId.nodeId}`}>{ancestor.title.value}</Link>
               </BreadcrumbItem>
             ))}
         </Breadcrumb>
