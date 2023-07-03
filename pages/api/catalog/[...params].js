@@ -5,10 +5,12 @@ export default async function handler(req, res) {
   let siteId = req.query.params[0];
   let itemCode = req.query.params[1];
   const catalogItem = await getSiteCatalogItemDetailsByItemCode(siteId, itemCode);
+  console.log(catalogItem);
   if (catalogItem.status !== 200) {
     res.status(catalogItem.status).json(catalogItem);
   }
   const ancestors = await getCatalogItemCategoryAncestorsByMerchandiseCategory(catalogItem.data.item.merchandiseCategory.nodeId);
+  console.log(ancestors);
   if (ancestors.status !== 200) {
     res.status(ancestors.status).json(ancestors);
   }
