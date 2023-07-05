@@ -7,7 +7,6 @@ export default async function handler(req, res) {
     res.status(catalogItems.status).json(catalogItems);
   }
   let data = catalogItems.data.pageContent;
-  console.log(data);
   var sortByItemCode = function (obj) {
     return obj.item.itemId.itemCode;
   };
