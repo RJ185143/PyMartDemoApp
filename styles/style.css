@@ -506,7 +506,7 @@ label {
   vertical-align: text-bottom;
 }
 
-a {
+a  {
   text-decoration: none;
   display: inline-block;
   padding: 8px 16px;
@@ -525,6 +525,8 @@ a:hover {
 .next {
   background-color: #04AA6D;
   color: white;
+  float: right;
+
 }
 
 .round {
