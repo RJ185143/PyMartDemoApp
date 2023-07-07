@@ -39,7 +39,6 @@ export default function Catalog() {
   }
 
   const catalogItems = data.catalogItems.data.pageContent;
-  console.log(catalogItems);
 
   return (
     <Layout logs={data && data.logs ? data.logs : []} title="Catalog">
