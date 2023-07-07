@@ -42,6 +42,7 @@ const options = {
           status: 'ACTIVE',
           username: credentials.username
         };
+        console.log("called");
         let user = await createUser(userObj);
         if (user.status == 200) {
           let response = await authenticateUser(credentials.username, credentials.password);

@@ -24,6 +24,7 @@ export function reportWebVitals(metric) {
 }
 
 function MyApp({ Component, pageProps }) {
+  console.log(pageProps);
   return (
     <SessionProvider
         options={{

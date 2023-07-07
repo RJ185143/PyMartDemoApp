@@ -46,7 +46,7 @@ export default function Catalog() {
       <div className="container my-4 flex-grow-1">
         <Row>
           {catalogItems.filter(item => item.itemAttributes != null).map((item) => (
-            <Col sm="6" md="3" className="mb-4" key={item.item.itemId.itemCode}>
+            <Col sm="6" md="3" className="mb-4" key={item.item.itemId.iteCode}>
               <ItemCard catalogItem={item} />
             </Col>
           ))}

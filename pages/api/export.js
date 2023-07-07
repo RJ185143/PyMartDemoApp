@@ -8,7 +8,6 @@ export default async function handler(_, res) {
   }
 
   let tenantBody = {
-    orgName: 'pymart-testing-demo',
     orgDisplayName: 'PyMart Testing Demo App'
   };
 
