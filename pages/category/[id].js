@@ -102,11 +102,13 @@ export default function Category({ id }) {
           )}
           <div className="row row-cols-md-3" id="catalog-items">
             {categoryItems.length > 0 ? (
-              categoryItems.filter(item => item.itemAttributes != null).map((item) => (
-                <Col sm={6} md={3} className="mb-4" key={item.item.itemId.itemCode}>
-                  <ItemCard catalogItem={item} />
-                </Col>
-              ))
+              categoryItems
+                .filter((item) => item.itemAttributes != null)
+                .map((item) => (
+                  <Col sm={6} md={3} className="mb-4" key={item.item.itemId.itemCode}>
+                    <ItemCard catalogItem={item} />
+                  </Col>
+                ))
             ) : (
               <small className="col text-muted">No products yet.</small>
             )}

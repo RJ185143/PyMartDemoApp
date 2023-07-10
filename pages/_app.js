@@ -27,7 +27,7 @@ function MyApp({ Component, pageProps }) {
   console.log(pageProps);
   return (
     <SessionProvider
-        options={{
+      options={{
         clientMaxAge: 0,
         keepAlive: 0
       }}
@@ -44,4 +44,4 @@ function MyApp({ Component, pageProps }) {
   );
 }
 
-export default MyApp
+export default MyApp;

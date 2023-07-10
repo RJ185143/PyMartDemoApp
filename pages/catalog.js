@@ -44,14 +44,20 @@ export default function Catalog() {
     <Layout logs={data && data.logs ? data.logs : []} title="Catalog">
       <div className="container my-4 flex-grow-1">
         <Row>
-          {catalogItems.filter(item => item.itemAttributes != null).map((item) => (
-            <Col sm="6" md="3" className="mb-4" key={item.item.itemId.iteCode}>
-              <ItemCard catalogItem={item} />
-            </Col>
-          ))}
+          {catalogItems
+            .filter((item) => item.itemAttributes != null)
+            .map((item) => (
+              <Col sm="6" md="3" className="mb-4" key={item.item.itemId.iteCode}>
+                <ItemCard catalogItem={item} />
+              </Col>
+            ))}
         </Row>
-        <a href="#" class="previous">&laquo; Previous</a>
-        <a href="#" class="next">Next &raquo;</a>
+        <a href="#" className="previous">
+          &laquo; Previous
+        </a>
+        <a href="#" className="next">
+          Next &raquo;
+        </a>
       </div>
     </Layout>
   );

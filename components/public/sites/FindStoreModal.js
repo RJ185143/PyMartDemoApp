@@ -8,13 +8,12 @@ import StoreListItem from './StoreListItem';
 
 const FindStoreModal = (props) => {
   const { modalProp, toggle } = props;
-  const { coords, isGeolocationAvailable, isGeolocationEnabled } =
-        useGeolocated({
-            positionOptions: {
-                enableHighAccuracy: false,
-            },
-            userDecisionTimeout: 5000,
-        });
+  const { coords, isGeolocationAvailable, isGeolocationEnabled } = useGeolocated({
+    positionOptions: {
+      enableHighAccuracy: false
+    },
+    userDecisionTimeout: 5000
+  });
 
   const { setUserStore } = useContext(UserStoreContext);
   const [coordinates, setCoordinates] = useState(coords);
@@ -41,7 +40,7 @@ const FindStoreModal = (props) => {
             setSites(response.data.pageContent);
           });
       }
-    };
+    }
     fetchData();
   }, [coordinates]);
 

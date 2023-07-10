@@ -22,7 +22,7 @@ export default function Header({ logs }) {
       setIsModalOpen(true);
     }
   }, [isModalOpen]);
-  
+
   return (
     <div className="bg-white">
       <FindStoreModal modalProp={isModalOpen} toggle={toggleModal} />
@@ -45,7 +45,9 @@ export default function Header({ logs }) {
           <Container>
             <Row className="align-items-center">
               <Col sm="4" md="3">
-                <a href="/" className="logo-text">MART</a>
+                <a href="/" className="logo-text">
+                  MART
+                </a>
               </Col>
               <Col sm="8" md="5">
                 <SearchBar />
