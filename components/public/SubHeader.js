@@ -31,16 +31,10 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
                         <DropdownToggle nav caret>
                           {category.title.value}
                         </DropdownToggle>
-                        <DropdownMenu right>
-                          {/* <Row>
-                          <Col sm={12} md={4}> */}
+                        <DropdownMenu right alignEnd>
                           {Object.keys(children).map((child) => (
-                            <Link key={children[child].nodeId.nodeId} href={`/category/${children[child].nodeId.nodeId}`}>
-                              <DropdownItem>{children[child].title.value}</DropdownItem>
-                            </Link>
+                              <DropdownItem href={`/category/${children[child].nodeId.nodeId}`}>{children[child].title.value}</DropdownItem>
                           ))}
-                          {/* </Col>
-                        </Row> */}
                         </DropdownMenu>
                       </UncontrolledDropdown>
                     );
@@ -56,7 +50,7 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
           <Nav className="ml-auto" navbar>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret suppressHydrationWarning>
-                <FontAwesomeIcon icon={faStore} /> {userStore != undefined ? userStore.siteName : 'Set Store'}
+                {userStore != undefined ? userStore.siteName : 'Set Store'}
               </DropdownToggle>
               <DropdownMenu right>
                 <DropdownItem onClick={() => setIsModalOpen(true)}>Change Store</DropdownItem>

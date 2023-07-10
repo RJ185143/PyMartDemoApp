@@ -29,7 +29,7 @@ export default function Header({ logs }) {
       <header className="section-header shadow-sm">
         <section className="header-top border-lighter">
           <Container>
-            <Nav className="d-flex justify-content-between row">
+            <Nav className="d-flex justify-content-between">
               <NavItem>
                 <Logger logs={logs ?? []} />
               </NavItem>

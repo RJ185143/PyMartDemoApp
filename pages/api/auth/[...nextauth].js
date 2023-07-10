@@ -1,5 +1,5 @@
 import NextAuth from 'next-auth';
-import CredentialsProvider from 'next-auth/react';
+import CredentialsProvider from "next-auth/providers/credentials";
 import { createUser, getCurrentUserProfileData } from '~/lib/provisioning';
 import { authenticateUser, exchangeToken } from '~/lib/security';
 

@@ -55,9 +55,4 @@ const HomeMap = () => {
   );
 };
 
-export default geolocated({
-  positionOptions: {
-    enableHighAccuracy: false
-  },
-  userDecisionTimeout: 5000
-})(HomeMap);
+export default HomeMap;
