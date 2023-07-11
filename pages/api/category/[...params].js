@@ -7,7 +7,6 @@ let logs = [];
 export default async function handler(req, res) {
   let siteId = req.query.params[0];
   let categoryId = req.query.params[1];
-  console.log(categoryId);
   let categoryItems = await getSiteCatelogItemsByMerchandiseCategoryId(siteId, categoryId);
   if (categoryItems.status !== 200) {
     res.status(categoryItems).json(categoryItems);

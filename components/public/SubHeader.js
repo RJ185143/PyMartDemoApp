@@ -30,7 +30,7 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
                         <DropdownToggle nav caret>
                           {category.title.value}
                         </DropdownToggle>
-                        <DropdownMenu right alignEnd>
+                        <DropdownMenu end>
                           {Object.keys(children).map((child) => (
                             <DropdownItem href={`/category/${children[child].nodeId.nodeId}`} key={children[child].nodeId.nodeId}>
                               {children[child].title.value}
@@ -55,7 +55,7 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
               <DropdownToggle nav caret suppressHydrationWarning>
                 {userStore != undefined ? userStore.siteName : 'Set Store'}
               </DropdownToggle>
-              <DropdownMenu right>
+              <DropdownMenu end>
                 <DropdownItem onClick={() => setIsModalOpen(true)}>Change Store</DropdownItem>
               </DropdownMenu>
             </UncontrolledDropdown>

@@ -44,24 +44,22 @@ export default function Catalog() {
     );
   }
 
-  const catalogItems = data.catalogItems.data.pageContent;
+  const catalogItems = data.catalogItems.data.pageContent.filter((item) => item.itemAttributes != null);
 
   return (
     <Layout logs={data && data.logs ? data.logs : []} title="Catalog">
       <div className="container my-4 flex-grow-1">
         <Row>
-          {catalogItems
-            .filter((item) => item.itemAttributes != null)
-            .map((item) => (
-              <Col sm="6" md="3" className="mb-4" key={item.item.itemId.iteCode}>
-                <ItemCard catalogItem={item} />
-              </Col>
-            ))}
+          {catalogItems.map((item) => (
+            <Col sm="6" md="3" className="mb-4" key={item.item.itemId.itemCode}>
+              <ItemCard catalogItem={item} />
+            </Col>
+          ))}
         </Row>
-        <a href={'?page=' + currentPage - 1} className="previous">
+        <a href={'?page=' + (currentPage - 1)} className="previous">
           &laquo; Previous
         </a>
-        <a href={'?page=' + currentPage + 1} className="next">
+        <a href={'?page=' + (currentPage + 1)} className="next">
           Next &raquo;
         </a>
       </div>

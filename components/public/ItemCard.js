@@ -47,7 +47,7 @@ const ItemCard = ({ catalogItem = {}, showCartButton = true }) => {
             <Image
               alt={item.shortDescription.values ? item.shortDescription.values[0].value : item.shortDescription.value}
               src={itemAttributes.imageUrls[0] !== '' && itemAttributes.imageUrls.length > 0 && itemAttributes.imageUrls[0] !== null ? itemAttributes.imageUrls[0] : 'https://via.placeholder.com/150'}
-              layout="responsive"
+              style={{ width: `100%`, position: `relative`, height: `unset` }}
               width={255}
               height={255}
               className="p-4"
