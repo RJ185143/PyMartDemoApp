@@ -34,7 +34,7 @@ export default function Header({ logs }) {
                 <Logger logs={logs ?? []} />
               </NavItem>
               <NavItem>
-                <a href="/admin/dashboard" className="nav-link">
+                <a href="/admin/dashboard" className="nav-link" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
                   <FontAwesomeIcon icon={faCog} size="1x" /> Manage
                 </a>
               </NavItem>
@@ -44,8 +44,8 @@ export default function Header({ logs }) {
         <section className="header-main border-bottom py-3">
           <Container>
             <Row className="align-items-center">
-              <Col sm="4" md="3">
-                <a href="/" className="logo-text">
+              <Col sm="4" md="3" className="bg-transparent">
+                <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
                   MART
                 </a>
               </Col>
@@ -71,9 +71,8 @@ export default function Header({ logs }) {
                   </div>
                   <div className=" border-start border-white border-1">
                     <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
-                      <Button onClick={() => setIsModalOpen(true)} outline className="border-none cart-btn bg-transparent text-white" suppressHydrationWarning>
-                        <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" />
-                        {(userStore.siteName) || ('Set Store')}
+                      <Button onClick={() => setIsModalOpen(true)} outline className="border-none      cart-btn bg-transparent text-white" suppressHydrationWarning>
+                        <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" /> {(userStore.siteName) || ('Set Store')}
                       </Button>
                   </a>
                   </div>
