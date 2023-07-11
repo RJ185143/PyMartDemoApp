@@ -6,7 +6,7 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
   const toggle = () => setIsOpen(!isOpen);
   return (
     <Container className="py-2 bg-white">
-      <Navbar expand="md" className="p-0 subheader-navbar" light color="faded">
+      <Navbar expand="md" className="p-0 subheader-navbar flex flex-wrap" light color="faded">
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           {!isError && (
@@ -50,16 +50,6 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
                 })}
             </Nav>
           )}
-          <Nav className="ml-auto" navbar>
-            <UncontrolledDropdown nav inNavbar>
-              <DropdownToggle nav caret suppressHydrationWarning>
-                {userStore != undefined ? userStore.siteName : 'Set Store'}
-              </DropdownToggle>
-              <DropdownMenu end>
-                <DropdownItem onClick={() => setIsModalOpen(true)}>Change Store</DropdownItem>
-              </DropdownMenu>
-            </UncontrolledDropdown>
-          </Nav>
         </Collapse>
       </Navbar>
     </Container>
