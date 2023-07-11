@@ -28,25 +28,25 @@ export default function Register() {
   const handleSubmit = async (values) => {
     setRegistering(true);
     const { username, emailAddress, firstName, lastName, password } = values;
-    // signIn('register', {
-    //   username,
-    //   emailAddress,
-    //   firstName,
-    //   lastName,
-    //   password,
-    //   redirect: false
-    // }).then(async (data) => {
-    //   let status = await getSession();
-    //   console.log(status);
-    //   setRegistering(false);
-    //   if (status === null) {
-    //     toast.error(data.error);
-    //   } else {
-    //     router.push({
-    //       pathname: '/'
-    //     });
-    //   }
-    // });
+    signIn('register', {
+      username,
+      emailAddress,
+      firstName,
+      lastName,
+      password,
+      redirect: false
+    }).then(async (data) => {
+      let status = await getSession();
+      console.log(status);
+      setRegistering(false);
+      if (status === null) {
+        toast.error(data.error);
+      } else {
+        router.push({
+          pathname: '/'
+        });
+      }
+    });
   };
   return (
     <Formik initialValues={initialValues} validationSchema={createConsumerSchema} onSubmit={handleSubmit}>
@@ -116,7 +116,9 @@ export default function Register() {
                   <CardFooter className="bg">
                     <p className="text-muted mb-0">
                       Already have an account?{' '}
-                      <a href="/auth/login" className="link p-0 m-0">Login</a>
+                      <a href="/auth/login" className="link p-0 m-0">
+                        Login
+                      </a>
                     </p>
                   </CardFooter>
                 </Card>

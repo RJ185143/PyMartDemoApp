@@ -1,25 +1,31 @@
 import React, { useEffect, useState, useContext } from 'react';
 import Link from 'next/link';
 
-import { geolocated } from 'react-geolocated';
+import { useGeolocated } from 'react-geolocated';
 import { Modal, ModalHeader, ModalBody } from 'reactstrap';
 import { UserStoreContext } from '~/context/userStore';
 import StoreListItem from './StoreListItem';
 
 const FindStoreModal = (props) => {
-  const { modalProp, toggle, coords } = props;
+  const { modalProp, toggle } = props;
+  const { coords, isGeolocationAvailable, isGeolocationEnabled } = useGeolocated({
+    positionOptions: {
+      enableHighAccuracy: false
+    },
+    userDecisionTimeout: 5000
+  });
 
   const { setUserStore } = useContext(UserStoreContext);
   const [coordinates, setCoordinates] = useState(coords);
   const [sites, setSites] = useState();
-  if (props.coords && !coordinates) {
-    setCoordinates(props.coords);
+  if (coords && !coordinates) {
+    setCoordinates(coords);
   }
 
-  useEffect(async () => {
+  useEffect(() => {
     // Get locations near user.
-    const fetchData = async () => {
-      if (props.coords && coordinates.latitude) {
+    async function fetchData() {
+      if (coords && coordinates.latitude) {
         fetch(`/api/findSites?latitude=${coordinates.latitude}&longitude=${coordinates.longitude}`)
           .then((res) => res.json())
           .then((data) => {
@@ -34,7 +40,7 @@ const FindStoreModal = (props) => {
             setSites(response.data.pageContent);
           });
       }
-    };
+    }
     fetchData();
   }, [coordinates]);
 
@@ -42,12 +48,12 @@ const FindStoreModal = (props) => {
     <Modal isOpen={modalProp} toggle={toggle} size="lg">
       <ModalHeader toggle={toggle} className="d-flex flex-columns border-none bg-brand-primary text-white">
         <span className="font-weight-bold h3">Find a Store</span>
-        {!props.isGeolocationAvailable ? (
+        {!isGeolocationAvailable ? (
           <p>
             <small className="text-muted">Geolocation is unavailable.</small>
           </p>
         ) : (
-          !props.isGeolocationEnabled && (
+          !isGeolocationEnabled && (
             <p>
               <small className="text-muted">User location not enabled</small>
             </p>
@@ -80,9 +86,4 @@ const FindStoreModal = (props) => {
   );
 };
 
-export default geolocated({
-  positionOptions: {
-    enableHighAccuracy: false
-  },
-  userDecisionTimeout: 5000
-})(FindStoreModal);
+export default FindStoreModal;

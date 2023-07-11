@@ -1,6 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronRight } from '@fortawesome/free-solid-svg-icons';
-import { geolocated } from 'react-geolocated';
 import { ListGroup, ListGroupItem } from 'reactstrap';
 
 import useSites from '~/lib/swr/useSites';
@@ -55,9 +54,4 @@ const HomeMap = () => {
   );
 };
 
-export default geolocated({
-  positionOptions: {
-    enableHighAccuracy: false
-  },
-  userDecisionTimeout: 5000
-})(HomeMap);
+export default HomeMap;
