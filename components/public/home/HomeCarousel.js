@@ -44,8 +44,8 @@ const HomeCarousel = () => {
           <div className="container">
             <h3 className="inner-text">{item.caption}</h3>
             <span>
-              <a href={item.link} className="btn btn-success">
-                Shop Now
+              <a href="/catalog" className="btn btn-success">
+                  Shop Now
               </a>
             </span>
           </div>
