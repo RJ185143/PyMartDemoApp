@@ -1,4 +1,4 @@
-import { useContext } from 'react';
+import { useContext, useEffect, useState } from 'react';
 import { Row, Col } from 'reactstrap';
 import { UserStoreContext } from '~/context/userStore';
 import ItemCard from '~/components/public/ItemCard';
@@ -11,6 +11,12 @@ export default function Catalog() {
   const { userStore } = useContext(UserStoreContext);
   const { query, page } = router.query;
   const { data, isLoading, isError } = useCatalog(userStore.id, query, page);
+  const [currentPage, setCurrentPage] = useState(0);
+  useEffect(() => {
+    if (page) {
+      setCurrentPage(page);
+    }
+  }, [currentPage]);
 
   if (isLoading) {
     return (
@@ -52,10 +58,10 @@ export default function Catalog() {
               </Col>
             ))}
         </Row>
-        <a href="#" className="previous">
+        <a href={'?page=' + currentPage - 1} className="previous">
           &laquo; Previous
         </a>
-        <a href="#" className="next">
+        <a href={'?page=' + currentPage + 1} className="next">
           Next &raquo;
         </a>
       </div>

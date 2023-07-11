@@ -1,7 +1,4 @@
 import { useState } from 'react';
-import Link from 'next/link';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faStore } from '@fortawesome/free-solid-svg-icons';
 import { Container, Collapse, Navbar, NavbarToggler, Nav, NavItem, UncontrolledDropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 
 const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
@@ -35,7 +32,9 @@ const SubHeader = ({ data, userStore, setIsModalOpen, isLoading, isError }) => {
                         </DropdownToggle>
                         <DropdownMenu right alignEnd>
                           {Object.keys(children).map((child) => (
-                            <DropdownItem href={`/category/${children[child].nodeId.nodeId}`}>{children[child].title.value}</DropdownItem>
+                            <DropdownItem href={`/category/${children[child].nodeId.nodeId}`} key={children[child].nodeId.nodeId}>
+                              {children[child].title.value}
+                            </DropdownItem>
                           ))}
                         </DropdownMenu>
                       </UncontrolledDropdown>

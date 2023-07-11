@@ -1,6 +1,6 @@
 import { Col, Card, CardBody, CardTitle } from 'reactstrap';
-import Image from 'next/image';
 import Skeleton from 'react-loading-skeleton';
+
 const HomeGroups = ({ isError, isLoading, userStore, data }) => {
   if (isLoading) {
     return (

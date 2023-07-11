@@ -90,7 +90,7 @@ export default function Category({ id }) {
               {childrenCategories.data.pageContent.map((child) => (
                 <Col sm={smallColumns} md={mediumColumns} key={child.nodeId.nodeId}>
                   <Card className="shadow-sm p-2 bg-white rounded border-0 mb-4 category-card">
-                    <a href={`/category/${child.nodeId.nodeId}`} passHref>
+                    <a href={`/category/${child.nodeId.nodeId}`}>
                       <CardBody>
                         <p className="h5 card-title text-center">{child.title.value}</p>
                       </CardBody>

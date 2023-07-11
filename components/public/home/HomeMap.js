@@ -1,6 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faChevronRight } from '@fortawesome/free-solid-svg-icons';
-import { geolocated } from 'react-geolocated';
 import { ListGroup, ListGroupItem } from 'reactstrap';
 
 import useSites from '~/lib/swr/useSites';

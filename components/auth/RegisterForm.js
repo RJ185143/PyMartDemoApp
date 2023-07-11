@@ -28,25 +28,25 @@ export default function Register() {
   const handleSubmit = async (values) => {
     setRegistering(true);
     const { username, emailAddress, firstName, lastName, password } = values;
-    // signIn('register', {
-    //   username,
-    //   emailAddress,
-    //   firstName,
-    //   lastName,
-    //   password,
-    //   redirect: false
-    // }).then(async (data) => {
-    //   let status = await getSession();
-    //   console.log(status);
-    //   setRegistering(false);
-    //   if (status === null) {
-    //     toast.error(data.error);
-    //   } else {
-    //     router.push({
-    //       pathname: '/'
-    //     });
-    //   }
-    // });
+    signIn('register', {
+      username,
+      emailAddress,
+      firstName,
+      lastName,
+      password,
+      redirect: false
+    }).then(async (data) => {
+      let status = await getSession();
+      console.log(status);
+      setRegistering(false);
+      if (status === null) {
+        toast.error(data.error);
+      } else {
+        router.push({
+          pathname: '/'
+        });
+      }
+    });
   };
   return (
     <Formik initialValues={initialValues} validationSchema={createConsumerSchema} onSubmit={handleSubmit}>
