@@ -73,7 +73,7 @@ export default function Header({ logs }) {
                     <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
                       <Button onClick={() => setIsModalOpen(true)} outline className="border-none cart-btn bg-transparent text-white" suppressHydrationWarning>
                         <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" />
-                        {(userStore.siteName) || ('Set Store')}
+                        {userStore.siteName || 'Set Store'}
                       </Button>
                   </a>
                   </div>
@@ -82,7 +82,7 @@ export default function Header({ logs }) {
             </Row>
           </Container>
         </section>
-        <SubHeader data={data} userStore={userStore} setIsModalOpen={setIsModalOpen} isLoading={isLoading} isError={isError} />
+        <SubHeader data={data} userStore={userStore} isLoading={isLoading} isError={isError} />
       </header>
     </div>
   );
