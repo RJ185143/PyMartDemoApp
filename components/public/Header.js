@@ -46,7 +46,7 @@ export default function Header({ logs }) {
             <Row className="align-items-center">
               <Col sm="4" md="3" className="bg-transparent">
                 <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
-                  MART
+                  PyMart
                 </a>
               </Col>
               <Col sm="8" md="5">
