@@ -6,7 +6,7 @@ const HomeAboutCards = () => {
   return (
     <Row className="mb-4">
       <Col sm={12} md={4} className="mb-2 mb-md-0 ">
-        <Card className="d-flex align-items-center justify-content-center flex-row pl-4 pl-md-0 pl-lg-4 py-2">
+        <Card className="d-flex align-items-center justify-content-center flex-row ps-4 ps-md-0 ps-lg-4 py-2">
           <FontAwesomeIcon icon={faProjectDiagram} size="2x" className="text-dark d-md-none d-lg-flex" />
           <CardBody>
             <CardTitle tag="h2" className="h5 font-weight-bolder text-dark">
@@ -17,7 +17,7 @@ const HomeAboutCards = () => {
         </Card>
       </Col>
       <Col sm={12} md={4} className="mb-2 mb-md-0 ">
-        <Card className="d-flex align-items-center justify-content-center flex-row pl-4 pl-md-0 pl-lg-4 py-2">
+        <Card className="d-flex align-items-center justify-content-center flex-row ps-4 ps-md-0 ps-lg-4 py-2">
           <FontAwesomeIcon icon={faCode} size="2x" className="text-dark d-md-none d-lg-flex" />
           <CardBody>
             <CardTitle tag="h2" className="h5 font-weight-bolder text-dark">
@@ -28,7 +28,7 @@ const HomeAboutCards = () => {
         </Card>
       </Col>
       <Col sm={12} md={4} className="mb-2 mb-md-0 ">
-        <Card className="d-flex align-items-center justify-content-center flex-row pl-4 pl-md-0 pl-lg-4 py-2">
+        <Card className="d-flex align-items-center justify-content-center flex-row ps-4 ps-md-0 ps-lg-4 py-2">
           <FontAwesomeIcon icon={faKey} size="3x" className="text-dark d-md-none d-lg-flex" />
           <CardBody>
             <CardTitle tag="h2" className="h5 font-weight-bolder text-dark">

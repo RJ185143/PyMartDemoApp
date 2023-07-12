@@ -40,7 +40,7 @@ const HomeCarousel = () => {
     return (
       <CarouselItem onExiting={() => setAnimating(true)} onExited={() => setAnimating(false)} key={item.src}>
         <img src={item.src} alt={item.altText} style={{ width: '100%', objectFit: 'cover', minHeight: '400px' }} />
-        <div className="carousel-caption d-block text-left">
+        <div className="carousel-caption d-block text-start">
           <div className="container">
             <h3 className="inner-text">{item.caption}</h3>
             <span>
