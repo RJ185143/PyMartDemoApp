@@ -34,7 +34,7 @@ export default function Header({ logs }) {
                 <Logger logs={logs ?? []} />
               </NavItem>
               <NavItem>
-                <a href="/admin/dashboard" className="nav-link">
+                <a href="/admin/dashboard" className="nav-link" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
                   <FontAwesomeIcon icon={faCog} size="1x" /> Manage
                 </a>
               </NavItem>
@@ -44,9 +44,9 @@ export default function Header({ logs }) {
         <section className="header-main border-bottom py-3">
           <Container>
             <Row className="align-items-center">
-              <Col sm="4" md="3">
-                <a href="/" className="logo-text">
-                  MART
+              <Col sm="4" md="3" className="bg-transparent">
+                <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
+                  PyMart
                 </a>
               </Col>
               <Col sm="8" md="5">
