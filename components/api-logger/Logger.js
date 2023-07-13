@@ -29,7 +29,7 @@ const Logger = ({ logs }) => {
   };
   return (
     <div>
-      <Button color="link" className="nav-link" onClick={toggleActive}>
+      <Button color="link" className="nav-link ps-0" onClick={toggleActive}>
         <FontAwesomeIcon icon={faChartLine} size="1x" /> API Requests
       </Button>
       {isActive && (

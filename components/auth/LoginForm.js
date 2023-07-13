@@ -29,6 +29,7 @@ export default function Login({ query = false }) {
       redirect: false
     }).then(async () => {
       let status = await getSession();
+      console.log(status);
       setLoginRequest(false);
       if (status == null) {
         toast.error('Invalid Login. Please try again');
