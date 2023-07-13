@@ -106,6 +106,10 @@ label {
   color: #1c1c1c;
 }
 
+.card {
+  padding: ;
+}
+
 .category-card a:hover {
   color: #1c1c1c;
   text-decoration: none;
@@ -303,6 +307,13 @@ label {
 
 .cart-btn {
   border: none !important;
+}
+.cart-btn button:hover {
+    background-color: transparent !important;
+}
+
+.cart-a a:hover {
+    background-color: transparent !important;
 }
 
 .carousel-caption {

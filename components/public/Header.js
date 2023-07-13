@@ -1,8 +1,8 @@
 import React, { useState, useContext, useEffect } from 'react';
 import Logger from '~/components/api-logger/Logger';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCog, faShoppingCart } from '@fortawesome/free-solid-svg-icons';
-import { Container, Nav, NavItem, Row, Col, Button, Badge } from 'reactstrap';
+import { faCog, faShoppingCart, faStore } from '@fortawesome/free-solid-svg-icons';
+import { Container, Row, Badge, Col, Button, Nav, NavItem } from 'reactstrap';
 import FindStoreModal from './sites/FindStoreModal';
 import { UserStoreContext } from '~/context/userStore';
 import SubHeader from './SubHeader';
@@ -34,7 +34,7 @@ export default function Header({ logs }) {
                 <Logger logs={logs ?? []} />
               </NavItem>
               <NavItem>
-                <a href="/admin/dashboard" className="nav-link">
+                <a href="/admin/dashboard" className="nav-link" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   <FontAwesomeIcon icon={faCog} size="1x" /> Manage
                 </a>
               </NavItem>
@@ -44,9 +44,9 @@ export default function Header({ logs }) {
         <section className="header-main border-bottom py-3">
           <Container>
             <Row className="align-items-center">
-              <Col sm="4" md="3">
-                <a href="/" className="logo-text">
-                  MART
+              <Col sm="4" md="3" className="bg-transparent">
+                <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                  PyMart
                 </a>
               </Col>
               <Col sm="8" md="5">
@@ -54,18 +54,26 @@ export default function Header({ logs }) {
               </Col>
               <Col sm="12" md="4" className="text-sm-left text-md-right text-white">
                 <div className="d-flex justify-content-end align-items-center">
-                  <div className="pr-4 d-flex flex-column justify-content-start">
+                  <div className="pe-4 d-flex flex-column justify-content-start">
                     <ProfileDropdown />
                   </div>
-                  <div className="pl-2 d-flex align-items-center justify-content-between text-white border-left border-white border-1">
-                    <a href="/cart" style={{ border: 'none !important' }}>
-                      <Button color="light" outline className="border-none cart-btn">
-                        <FontAwesomeIcon icon={faShoppingCart} size="1x" className="pr-1" /> Cart
+                  <div className="cart-div d-flex align-items-center justify-content-between text-white border-start border-white border-1">
+                    <a href="/cart" className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                      <Button color="light" outline className="border-none cart-btn bg-transparent text-white">
+                        <FontAwesomeIcon icon={faShoppingCart} size="1x" className="pe-1" /> Cart
                         {userCart && userCart.totalQuantity != null && userCart.totalQuantity > 0 && (
-                          <Badge color="warning" className="ml-1">
+                          <Badge color="warning" className="ms-1">
                             {userCart.totalQuantity}
                           </Badge>
                         )}
+                      </Button>
+                    </a>
+                  </div>
+                  <div className=" border-start border-white border-1">
+                    <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                      <Button onClick={() => setIsModalOpen(true)} outline className="border-none cart-btn bg-transparent text-white" suppressHydrationWarning>
+                        <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" />
+                        {userStore.siteName || 'Set Store'}
                       </Button>
                     </a>
                   </div>
@@ -74,7 +82,7 @@ export default function Header({ logs }) {
             </Row>
           </Container>
         </section>
-        <SubHeader data={data} userStore={userStore} setIsModalOpen={setIsModalOpen} isLoading={isLoading} isError={isError} />
+        <SubHeader data={data} isLoading={isLoading} isError={isError} />
       </header>
     </div>
   );
