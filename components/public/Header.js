@@ -34,7 +34,7 @@ export default function Header({ logs }) {
                 <Logger logs={logs ?? []} />
               </NavItem>
               <NavItem>
-                <a href="/admin/dashboard" className="nav-link" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
+                <a href="/admin/dashboard" className="nav-link" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   <FontAwesomeIcon icon={faCog} size="1x" /> Manage
                 </a>
               </NavItem>
@@ -45,7 +45,7 @@ export default function Header({ logs }) {
           <Container>
             <Row className="align-items-center">
               <Col sm="4" md="3" className="bg-transparent">
-                <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
+                <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   PyMart
                 </a>
               </Col>
@@ -58,7 +58,7 @@ export default function Header({ logs }) {
                     <ProfileDropdown />
                   </div>
                   <div className="cart-div d-flex align-items-center justify-content-between text-white border-start border-white border-1">
-                    <a href="/cart" className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
+                    <a href="/cart" className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                       <Button color="light" outline className="border-none cart-btn bg-transparent text-white">
                         <FontAwesomeIcon icon={faShoppingCart} size="1x" className="pe-1" /> Cart
                         {userCart && userCart.totalQuantity != null && userCart.totalQuantity > 0 && (
@@ -70,19 +70,19 @@ export default function Header({ logs }) {
                     </a>
                   </div>
                   <div className=" border-start border-white border-1">
-                    <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important`}}>
+                    <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                       <Button onClick={() => setIsModalOpen(true)} outline className="border-none cart-btn bg-transparent text-white" suppressHydrationWarning>
                         <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" />
                         {userStore.siteName || 'Set Store'}
                       </Button>
-                  </a>
+                    </a>
                   </div>
                 </div>
               </Col>
             </Row>
           </Container>
         </section>
-        <SubHeader data={data} userStore={userStore} isLoading={isLoading} isError={isError} />
+        <SubHeader data={data} isLoading={isLoading} isError={isError} />
       </header>
     </div>
   );

@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { Container, Collapse, Navbar, NavbarToggler, Nav, NavItem, UncontrolledDropdown, DropdownToggle, DropdownMenu, DropdownItem } from 'reactstrap';
 
-const SubHeader = ({ data, userStore, isLoading, isError }) => {
+const SubHeader = ({ data, isLoading, isError }) => {
   const [isOpen, setIsOpen] = useState(false);
   const toggle = () => setIsOpen(!isOpen);
   return (
