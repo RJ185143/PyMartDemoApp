@@ -18,9 +18,6 @@ function ProfileDropdown() {
         <Link href="/auth/login">
           <Button color="link" className="text-light py-0 px-2 text-left d-flex flex-column justify-content-start text-decoration-none">
             <span>
-              <small>Signup / Login</small>
-            </span>
-            <span>
               My Account
               <FontAwesomeIcon icon={faChevronDown} size="1x" className="pl-1" />
             </span>
