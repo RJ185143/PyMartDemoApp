@@ -45,16 +45,16 @@ export default function Header({ logs }) {
           <Container>
             <Row className="align-items-center">
               <Col sm="4" md="3" className="bg-transparent">
-                <a href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                <b href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   PyMart
-                </a>
+                </b>
               </Col>
               <Col sm="8" md="5">
                 <SearchBar />
               </Col>
               <Col sm="12" md="4" className="text-sm-left text-md-right text-white">
-                <div className="d-flex justify-content-end align-items-center">
-                  <div className="pe-4 d-flex flex-column justify-content-start">
+                <div className="d-flex justify-content-end align-items-center" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                  <div className="d-flex flex-column justify-content-start">
                     <ProfileDropdown />
                   </div>
                   <div className="cart-div d-flex align-items-center justify-content-between text-white border-start border-white border-1">
