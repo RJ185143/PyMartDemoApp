@@ -43,24 +43,29 @@ export default function Header({ logs }) {
         </section>
         <section className="header-main border-bottom py-3">
           <Container>
-            <Row className="align-items-center">
-              <Col sm="4" md="3" className="bg-transparent">
-                <b href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+            <Row className="align-items-center w-100 justify-content-between ms-0 me-0">
+              <Col sm="2" md="2" className="bg-transparent">
+                <a href="/" className="logo-text ps-0 pe-0" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   PyMart
-                </b>
+                </a>
               </Col>
               <Col sm="8" md="5">
                 <SearchBar />
               </Col>
-              <Col sm="12" md="4" className="text-sm-left text-md-right text-white">
-                <div className="d-flex justify-content-end align-items-center" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
-                  <div className="d-flex flex-column justify-content-start">
-                    <ProfileDropdown />
+              <Col sm="12" md="5" className="text-sm-left text-md-right text-white pe-0">
+                <div className="d-flex justify-content-end align-items-center" style={{ border: 'none !important', backgroundColor: `transparent !important` }} >
+                  <div className=" border-none border-white border-1">
+                    <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                      <Button onClick={() => setIsModalOpen(true)} outline className="border-none cart-btn bg-transparent text-white" suppressHydrationWarning>
+                        <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" />
+                        {userStore.siteName || 'Set Store'}
+                      </Button>
+                    </a>
                   </div>
-                  <div className="cart-div d-flex align-items-center justify-content-between text-white border-start border-white border-1">
+                  <div className="cart-div d-flex align-items-center justify-content-between text-white border-start border-end border-white border-1">
                     <a href="/cart" className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                       <Button color="light" outline className="border-none cart-btn bg-transparent text-white">
-                        <FontAwesomeIcon icon={faShoppingCart} size="1x" className="pe-1" /> Cart
+                        <FontAwesomeIcon icon={faShoppingCart} size="1x" className="pe-1" />Cart
                         {userCart && userCart.totalQuantity != null && userCart.totalQuantity > 0 && (
                           <Badge color="warning" className="ms-1">
                             {userCart.totalQuantity}
@@ -69,13 +74,8 @@ export default function Header({ logs }) {
                       </Button>
                     </a>
                   </div>
-                  <div className=" border-start border-white border-1">
-                    <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
-                      <Button onClick={() => setIsModalOpen(true)} outline className="border-none cart-btn bg-transparent text-white" suppressHydrationWarning>
-                        <FontAwesomeIcon icon={faStore} size="1x" className="pe-1" />
-                        {userStore.siteName || 'Set Store'}
-                      </Button>
-                    </a>
+                  <div className="d-flex flex-column justify-content-start pe-0">
+                    <ProfileDropdown />
                   </div>
                 </div>
               </Col>

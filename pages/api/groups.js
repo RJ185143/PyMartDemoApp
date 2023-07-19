@@ -14,7 +14,6 @@ export default async function handler(req, res) {
     }
     if (homepageGroup && homepageGroup.status == 200 && homepageGroup.data && homepageGroup.data.pageContent.length > 0) {
       logs.push(homepageGroup.log);
-      console.log(homepageGroup.data.pageContent);
       let currentGroup = await getGroupById('homePage');
       let homepageContent = [];
       homepageContent.push({
