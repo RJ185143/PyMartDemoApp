@@ -43,7 +43,7 @@ export default function Header({ logs }) {
         </section>
         <section className="header-main border-bottom py-3">
           <Container>
-            <Row className="align-items-center w-100 justify-content-between">
+            <Row className="align-items-center w-100 justify-content-between ms-0 me-0">
               <Col sm="2" md="2" className="bg-transparent">
                 <a href="/" className="logo-text ps-0 pe-0" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   PyMart
@@ -52,7 +52,7 @@ export default function Header({ logs }) {
               <Col sm="8" md="5">
                 <SearchBar />
               </Col>
-              <Col sm="12" md="5" className="text-sm-left text-md-right text-white">
+              <Col sm="12" md="5" className="text-sm-left text-md-right text-white pe-0">
                 <div className="d-flex justify-content-end align-items-center" style={{ border: 'none !important', backgroundColor: `transparent !important` }} >
                   <div className=" border-none border-white border-1">
                     <a className="cart-a" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
@@ -74,7 +74,7 @@ export default function Header({ logs }) {
                       </Button>
                     </a>
                   </div>
-                  <div className="d-flex flex-column justify-content-start">
+                  <div className="d-flex flex-column justify-content-start pe-0">
                     <ProfileDropdown />
                   </div>
                 </div>
