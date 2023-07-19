@@ -17,9 +17,7 @@ function ProfileDropdown() {
       {status == 'unauthenticated' ? (
         <Link href="/auth/login">
           <Button color="link" className="text-light py-0 px-2 text-left d-flex flex-column justify-content-start text-decoration-none">
-            <span>
-              My Account
-              <FontAwesomeIcon icon={faChevronDown} size="1x" className="pl-1" />
+            <span> <FontAwesomeIcon icon={faUser} /> Login 
             </span>
           </Button>
         </Link>
