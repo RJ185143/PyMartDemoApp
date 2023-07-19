@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useSession, signOut } from 'next-auth/react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUser, faChevronDown } from '@fortawesome/free-solid-svg-icons';
+import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { Button, Spinner, Dropdown, DropdownMenu, DropdownItem, DropdownToggle } from 'reactstrap';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
