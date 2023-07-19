@@ -12,7 +12,7 @@ const SubHeader = ({ data, isLoading, isError }) => {
           {!isError && (
             <Nav navbar>
               <NavItem>
-                <a href="/catalog" className="pl-0 nav-link" style={{width: `max-content`}}>
+                <a href="/catalog" className="ps-0 nav-link" style={{width: `max-content`}}>
                   All Items
                 </a>
               </NavItem>
