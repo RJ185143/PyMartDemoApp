@@ -45,9 +45,9 @@ export default function Header({ logs }) {
           <Container>
             <Row className="align-items-center w-100 justify-content-between">
               <Col sm="2" md="2" className="bg-transparent">
-                <b href="/" className="logo-text" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
+                <a href="/" className="logo-text ps-0 pe-0" style={{ border: 'none !important', backgroundColor: `transparent !important` }}>
                   PyMart
-                </b>
+                </a>
               </Col>
               <Col sm="8" md="5">
                 <SearchBar />
