@@ -65,9 +65,4 @@ const Sites = (props) => {
   );
 };
 
-export default geolocated({
-  positionOptions: {
-    enableHighAccuracy: false
-  },
-  userDecisionTimeout: 5000
-})(Sites);
+export default Sites;
