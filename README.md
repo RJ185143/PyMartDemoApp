@@ -1,13 +1,13 @@
 <h1 align="center">
 <br>
-<a href="https://retaildemo.ncrcloud.com" target="_blank"><img src="./public/mart-banner.png" alt="MART" height="auto" width="100%" /></a>
+<a href="https://pymart-demo.netlify.app" target="_blank"><img src="./public/mart-banner.png" alt="MART" height="auto" width="100%" /></a>
 <br>
 </h1>
 
 <h4 align="center">A sample retail demo application built on top of <a href="https://developer.ncr.com" target="_blank">NCR's APIs.</a></h4>
 
 <p align="center">
-<a href="https://retaildemo.ncrcloud.com/"><img src="https://img.shields.io/badge/-Visit%20Demo-blue" alt="Demo" /></a>
+<a href="https://pymart-demo.netlify.app"><img src="https://img.shields.io/badge/-Visit%20Demo-blue" alt="Demo" /></a>
 <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg" alt="Dependencies" />
 <a href="https://github.com/NCR-Corporation/ncr-retail-demo/issues"><img src="https://img.shields.io/github/issues/NCR-Corporation/ncr-retail-demo" alt="Github Issues" /></a>
 <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" alt="Contributions Welcome" />
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a href="https://retaildemo.ncrcloud.com/" target="_blank">Demo</a> //
+<a href="https://pymart-demo.netlify.app/" target="_blank">Demo</a> //
 <a href="#features">Features</a> //
 <a href="#overview">Overview</a> //
 <a href="#how-to-use">How to Use</a> //
